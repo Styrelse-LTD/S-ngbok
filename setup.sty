@@ -1,0 +1,97 @@
+\ProvidesPackage{setup}
+
+\newenvironment{SongText} %Setup up at the begining of a song
+{\filbreak}
+{\filbreak}
+
+\newenvironment{Verse} %Setup up at the begining of a verse
+{}
+{\filbreak}
+
+\newenvironment{SongInfo}
+{}
+{
+\\*
+\phantom{NULL}
+\\*
+}
+
+
+
+\usepackage{graphicx} % Required for inserting images
+%\usepackage{parskip} % Stops indenet after paragraph change
+\usepackage{fancyhdr}
+\usepackage{ragged2e} 
+\raggedbottom
+\usepackage{titling}
+\newcommand{\subtitle}[1]{%
+  \posttitle{%
+    \par\end{center}
+    \begin{center}\large#1\end{center}
+    \vskip0.5em}%
+}
+\usepackage{tabularx}
+\usepackage{multicol} %%Används för listan under snapsvisor
+
+\usepackage{silence} % Temporary solution
+\WarningsOff[everypage]% Suppress warnings related to package everypage
+\usepackage{background} %Uses hooks from The "everypage" package which is outdated
+
+\usepackage{setspace}
+\linespread{1,1} % Increases the spacing between lines by 10%
+
+\newcommand{\CustomBackground}[2]{
+    \backgroundsetup{
+        scale=1,
+        opacity=1,
+        angle=0,
+        color=black,
+        contents={%
+        \ifodd\value{page}
+            \includegraphics[width=\paperwidth]{Media/#2}%%Odd pages
+        \else
+            \includegraphics[width=\paperwidth]{Media/#1}%%Even pages
+        \fi
+        }
+    }
+}
+
+
+
+% Används att alla section headers ska fungera som vanligt men inte skrivas ut
+\newcommand{\fakesection}[1]{%
+  \par\refstepcounter{section}% Increase section counter
+  \sectionmark{#1}% Add section mark (header)
+  \addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}% Add section to ToC
+  % Add more content here, if needed.
+}
+
+
+
+\newcommand{\invisiblesection}[1]{%
+  \par\refstepcounter{section}% Increase section counter
+  \sectionmark{#1}% Add section mark (header)
+  %\addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}% Add section to ToC
+  % Add more content here, if needed.
+}
+
+\renewcommand{\thesection}{} % Removes the numbering from the left side of sections in the ToC
+
+\renewcommand{\thesubsection}{} % Removes the numbering from the left side of subsections in the ToC
+
+\renewcommand{\thesubsubsection}{} % Removes the numbering from the left side of subsections in the ToC
+
+
+\usepackage{geometry}
+ \geometry{a6paper}
+
+\usepackage{etoc} % Adds the functionallity to have two ToC
+\setcounter{tocdepth}{3}  
+
+
+
+  
+
+
+
+\endinput
