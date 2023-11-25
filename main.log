@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.24)  25 NOV 2023 18:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.24)  25 NOV 2023 18:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -865,23 +865,23 @@ Overfull \hbox (7.36438pt too wide) in paragraph at lines 69--70
 
 File: Media/Artboard 1.png Graphic file (type png)
 <use Media/Artboard 1.png>
-Package pdftex.def Info: Media/Artboard 1.png  used on input line 78.
+Package pdftex.def Info: Media/Artboard 1.png  used on input line 71.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
 [32]
+File: Media/Artboard 2.png Graphic file (type png)
+<use Media/Artboard 2.png>
+Package pdftex.def Info: Media/Artboard 2.png  used on input line 81.
+(pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
+ [33]
 Overfull \hbox (6.17917pt too wide) in paragraph at lines 89--90
 \OT1/cmr/m/n/10 tages sj^^?alv och in-gen st^^?orre ko-or-di-na-tion ^^?an ^^?onskat
  []
 
-File: Media/Artboard 2.png Graphic file (type png)
-<use Media/Artboard 2.png>
-Package pdftex.def Info: Media/Artboard 2.png  used on input line 90.
-(pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
-[33]
 File: Media/Artboard 1.png Graphic file (type png)
 <use Media/Artboard 1.png>
 Package pdftex.def Info: Media/Artboard 1.png  used on input line 93.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
- [34]) (Kapitel/Patriotiska sånger.tex
+[34]) (Kapitel/Patriotiska sånger.tex
 <Media/Artboard 2_flag.png, id=130, 598.8774pt x 846.5226pt>
 File: Media/Artboard 2_flag.png Graphic file (type png)
 <use Media/Artboard 2_flag.png>
@@ -1212,21 +1212,17 @@ Package pdftex.def Info: Media/Artboard 1.png  used on input line 28.
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 14897 strings out of 475247
- 297142 string characters out of 5774180
+ 14896 strings out of 475247
+ 297123 string characters out of 5774180
  1934785 words of memory out of 5000000
- 36126 multiletter control sequences out of 15000+600000
+ 36125 multiletter control sequences out of 15000+600000
  563364 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  118i,13n,120p,4022b,804s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Ashley Björs\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (86 pages, 493190 bytes).
+Output written on main.pdf (86 pages, 493150 bytes).
 PDF statistics:
  345 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

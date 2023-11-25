@@ -15,10 +15,10 @@
 \contentsline {section}{\numberline {}\textbf {Hyfs och Etikett}}{26}{}%
 \contentsline {subsection}{\numberline {}\textbf {Skålande}}{27}{}%
 \contentsline {subsection}{\numberline {}\textbf {Tal och samtal}}{30}{}%
-\contentsline {subsection}{\numberline {}Bal}{31}{}%
-\contentsline {subsection}{\numberline {}Sittning}{32}{}%
+\contentsline {subsection}{\numberline {}Bal}{32}{}%
+\contentsline {subsection}{\numberline {}Sittning}{33}{}%
 \contentsline {subsubsection}{\numberline {}Finsittning}{33}{}%
-\contentsline {subsubsection}{\numberline {}Standardsittning}{33}{}%
+\contentsline {subsubsection}{\numberline {}Standardsittning}{34}{}%
 \contentsline {subsubsection}{\numberline {}Fulsittning}{34}{}%
 \contentsline {section}{\numberline {}Patriotiska sånger}{35}{}%
 \contentsline {subsection}{\numberline {}\textbf {Du Gamla, Du fria}}{35}{}%
