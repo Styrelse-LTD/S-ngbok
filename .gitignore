@@ -2,5 +2,7 @@
 .log
 .gz
 .toc
-Kapitel/
-Media/
+main.aux
+main.log
+main.synctex.gz
+main.toc
