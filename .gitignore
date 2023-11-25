@@ -1,6 +1,6 @@
-*.aux
-*.log
-*.gz
-*.toc
+.aux
+.log
+.gz
+.toc
 Kapitel/
 Media/
