@@ -1,5 +1,5 @@
 \@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
-\contentsline {section}{\numberline {}Example Kaptiel}{2}{}%
-\contentsline {subsection}{\numberline {}\textbf {Låtnamn}}{2}{}%
+\contentsline {section}{\numberline {}Example Kaptiel}{3}{}%
+\contentsline {subsection}{\numberline {}\textbf {Låtnamn}}{3}{}%
 \contentsline {section}{\numberline {}Index}{4}{}%
 \thispagestyle {empty}
