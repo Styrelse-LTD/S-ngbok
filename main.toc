@@ -46,20 +46,21 @@
 \contentsline {subsection}{\numberline {}\textbf {Vart vi går}}{64}{}%
 \contentsline {section}{\numberline {}Drinktips}{65}{}%
 \contentsline {subsection}{\numberline {}\textbf {Beslutsångest}}{65}{}%
-\contentsline {subsection}{\numberline {}\textbf {Screwdriver}}{67}{}%
-\contentsline {subsection}{\numberline {}\textbf {Screwdriver (Alternativ)}}{67}{}%
-\contentsline {subsection}{\numberline {}\textbf {Geting}}{68}{}%
-\contentsline {subsection}{\numberline {}\textbf {Geting (Alternativ)}}{68}{}%
-\contentsline {subsection}{\numberline {}\textbf {Vargtass}}{69}{}%
-\contentsline {subsection}{\numberline {}\textbf {Tequila Sunrise}}{69}{}%
-\contentsline {subsection}{\numberline {}\textbf {Tequila Sunrise (Alternativ)}}{70}{}%
-\contentsline {subsection}{\numberline {}\textbf {Pajala Sunrise}}{70}{}%
-\contentsline {subsection}{\numberline {}\textbf {Ubåt}}{70}{}%
-\contentsline {subsection}{\numberline {}\textbf {Atomubåt}}{71}{}%
-\contentsline {subsection}{\numberline {}\textbf {Bonka Bäver}}{72}{}%
-\contentsline {section}{\numberline {}Spel \& lekar}{73}{}%
-\contentsline {subsection}{\numberline {}\textbf {Fuck U}}{73}{}%
-\contentsline {subsection}{\numberline {}\textbf {Caps}}{73}{}%
-\contentsline {subsection}{\numberline {}\textbf {Threeman}}{73}{}%
-\contentsline {subsection}{\numberline {}\textbf {Fuck the Dealer}}{74}{}%
-\contentsline {section}{\numberline {}Egna påhitt}{76}{}%
+\contentsline {subsection}{\numberline {}\textbf {Screwdriver}}{68}{}%
+\contentsline {subsection}{\numberline {}\textbf {Screwdriver (Alternativ)}}{68}{}%
+\contentsline {subsection}{\numberline {}\textbf {Geting}}{69}{}%
+\contentsline {subsection}{\numberline {}\textbf {Geting (Alternativ)}}{69}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vargtass}}{70}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vargtass (Alternativ)}}{70}{}%
+\contentsline {subsection}{\numberline {}\textbf {Tequila Sunrise}}{71}{}%
+\contentsline {subsection}{\numberline {}\textbf {Tequila Sunrise (Alternativ)}}{72}{}%
+\contentsline {subsection}{\numberline {}\textbf {Pajala Sunrise}}{72}{}%
+\contentsline {subsection}{\numberline {}\textbf {Ubåt}}{73}{}%
+\contentsline {subsection}{\numberline {}\textbf {Atomubåt}}{74}{}%
+\contentsline {subsection}{\numberline {}\textbf {Bonka Bäver}}{75}{}%
+\contentsline {section}{\numberline {}Spel \& lekar}{76}{}%
+\contentsline {subsection}{\numberline {}\textbf {Fuck U}}{76}{}%
+\contentsline {subsection}{\numberline {}\textbf {Caps}}{76}{}%
+\contentsline {subsection}{\numberline {}\textbf {Threeman}}{76}{}%
+\contentsline {subsection}{\numberline {}\textbf {Fuck the Dealer}}{77}{}%
+\contentsline {section}{\numberline {}Egna påhitt}{79}{}%
