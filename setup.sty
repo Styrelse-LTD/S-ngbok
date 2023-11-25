@@ -1,7 +1,8 @@
 \ProvidesPackage{setup}
 
-\newenvironment{SongText} %Setup up at the begining of a song
-{\filbreak}
+\newenvironment{SongText}[1][] %Setup up at the begining of a song
+{\filbreak
+\subsection{\textbf{#1}}}
 {\filbreak}
 
 \newenvironment{Verse} %Setup up at the begining of a verse
