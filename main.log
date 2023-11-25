@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.24)  25 NOV 2023 14:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.24)  25 NOV 2023 14:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -512,11 +512,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 15.
 [1{C:/Users/Ashley Björs/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
-] (Kapitel/Example.tex [2]) (Kapitel/Innehåll.tex
+] (Kapitel/Example.tex
+<Media/Artboard 1.png, id=11, 598.235pt x 845.1575pt>
+File: Media/Artboard 1.png Graphic file (type png)
+<use Media/Artboard 1.png>
+Package pdftex.def Info: Media/Artboard 1.png  used on input line 30.
+(pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
+ [2 <./Media/Artboard 1.png>]) (Kapitel/Innehåll.tex
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
-<Media/Artboard 2_light.png, id=15, 598.8774pt x 846.0408pt>
+<Media/Artboard 2_light.png, id=18, 598.8774pt x 846.0408pt>
 File: Media/Artboard 2_light.png Graphic file (type png)
 <use Media/Artboard 2_light.png>
 Package pdftex.def Info: Media/Artboard 2_light.png  used on input line 10.
@@ -526,12 +532,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 11.
-<Media/Artboard 1.png, id=22, 598.235pt x 845.1575pt>
 File: Media/Artboard 1.png Graphic file (type png)
 <use Media/Artboard 1.png>
 Package pdftex.def Info: Media/Artboard 1.png  used on input line 12.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
- [4 <./Media/Artboard 1.png>]) (main.aux)
+ [4]) (main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
@@ -546,7 +551,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  118i,12n,120p,495b,730s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (4 pages, 126783 bytes).
+Output written on main.pdf (4 pages, 126831 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
