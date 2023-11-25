@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.24)  25 NOV 2023 14:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.24)  25 NOV 2023 18:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -525,7 +525,7 @@ Package pdftex.def Info: Media/Artboard 1.png  used on input line 10.
 <Media/Artboard 2_light.png, id=19, 598.8774pt x 846.0408pt>
 File: Media/Artboard 2_light.png Graphic file (type png)
 <use Media/Artboard 2_light.png>
-Package pdftex.def Info: Media/Artboard 2_light.png  used on input line 30.
+Package pdftex.def Info: Media/Artboard 2_light.png  used on input line 29.
 (pdftex.def)             Requested size: 298.75394pt x 422.05115pt.
  [3 <./Media/Artboard 2_light.png>]) (Kapitel/Index.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -543,15 +543,15 @@ L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14605 strings out of 475247
- 289597 string characters out of 5774180
+ 14606 strings out of 475247
+ 289606 string characters out of 5774180
  1921785 words of memory out of 5000000
- 35861 multiletter control sequences out of 15000+600000
+ 35862 multiletter control sequences out of 15000+600000
  562324 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  118i,12n,120p,495b,732s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (4 pages, 127175 bytes).
+Output written on main.pdf (4 pages, 126763 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
