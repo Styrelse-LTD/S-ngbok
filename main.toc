@@ -36,31 +36,38 @@
 \contentsline {subsection}{\numberline {}\textbf {PPM'arn}}{51}{}%
 \contentsline {subsection}{\numberline {}\textbf {ALF Lärarvisan}}{52}{}%
 \contentsline {subsection}{\numberline {}\textbf {Byggshymnen}}{53}{}%
-\contentsline {subsection}{\numberline {}\textbf {Vi är Beware!}}{54}{}%
-\contentsline {subsection}{\numberline {}\textbf {Folke--sången}}{57}{}%
-\contentsline {subsection}{\numberline {}\textbf {Inga som IMF}}{59}{}%
-\contentsline {subsection}{\numberline {}\textbf {???}}{60}{}%
-\contentsline {subsection}{\numberline {}\textbf {???}}{61}{}%
-\contentsline {subsection}{\numberline {}\textbf {Sjukgymnastlåten}}{61}{}%
-\contentsline {subsection}{\numberline {}\textbf {???}}{63}{}%
-\contentsline {subsection}{\numberline {}\textbf {Vart vi går}}{64}{}%
-\contentsline {section}{\numberline {}Drinktips}{65}{}%
-\contentsline {subsection}{\numberline {}\textbf {Beslutsångest}}{65}{}%
-\contentsline {subsection}{\numberline {}\textbf {Screwdriver}}{68}{}%
-\contentsline {subsection}{\numberline {}\textbf {Screwdriver (Alternativ)}}{68}{}%
-\contentsline {subsection}{\numberline {}\textbf {Geting}}{69}{}%
-\contentsline {subsection}{\numberline {}\textbf {Geting (Alternativ)}}{69}{}%
-\contentsline {subsection}{\numberline {}\textbf {Vargtass}}{70}{}%
-\contentsline {subsection}{\numberline {}\textbf {Vargtass (Alternativ)}}{70}{}%
-\contentsline {subsection}{\numberline {}\textbf {Tequila Sunrise}}{71}{}%
-\contentsline {subsection}{\numberline {}\textbf {Tequila Sunrise (Alternativ)}}{72}{}%
-\contentsline {subsection}{\numberline {}\textbf {Pajala Sunrise}}{72}{}%
-\contentsline {subsection}{\numberline {}\textbf {Ubåt}}{73}{}%
-\contentsline {subsection}{\numberline {}\textbf {Atomubåt}}{74}{}%
-\contentsline {subsection}{\numberline {}\textbf {Bonka Bäver}}{75}{}%
-\contentsline {section}{\numberline {}Spel \& lekar}{76}{}%
-\contentsline {subsection}{\numberline {}\textbf {Fuck U}}{76}{}%
-\contentsline {subsection}{\numberline {}\textbf {Caps}}{76}{}%
-\contentsline {subsection}{\numberline {}\textbf {Threeman}}{76}{}%
-\contentsline {subsection}{\numberline {}\textbf {Fuck the Dealer}}{77}{}%
-\contentsline {section}{\numberline {}Egna påhitt}{79}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vi är Beware!}}{53}{}%
+\contentsline {subsection}{\numberline {}\textbf {Folke--sången}}{56}{}%
+\contentsline {subsection}{\numberline {}\textbf {Inga som IMF}}{57}{}%
+\contentsline {subsection}{\numberline {}\textbf {???}}{59}{}%
+\contentsline {subsection}{\numberline {}\textbf {???}}{59}{}%
+\contentsline {subsection}{\numberline {}\textbf {Sjukgymnastlåten}}{60}{}%
+\contentsline {subsection}{\numberline {}\textbf {???}}{62}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vart vi går}}{62}{}%
+\contentsline {section}{\numberline {}Datasånger}{64}{}%
+\contentsline {subsection}{\numberline {}\textbf {Logga in, logga ut}}{64}{}%
+\contentsline {subsection}{\numberline {}\textbf {It is free}}{65}{}%
+\contentsline {subsection}{\numberline {}\textbf {Write in C}}{67}{}%
+\contentsline {subsection}{\numberline {}\textbf {Länka lilla dator där}}{70}{}%
+\contentsline {subsection}{\numberline {}\textbf {Kommandotolken}}{71}{}%
+\contentsline {subsection}{\numberline {}\textbf {Mors lilla dator}}{73}{}%
+\contentsline {section}{\numberline {}Drinktips}{73}{}%
+\contentsline {subsection}{\numberline {}\textbf {Beslutsångest}}{74}{}%
+\contentsline {subsection}{\numberline {}\textbf {Screwdriver}}{77}{}%
+\contentsline {subsection}{\numberline {}\textbf {Screwdriver (Alternativ)}}{77}{}%
+\contentsline {subsection}{\numberline {}\textbf {Geting}}{78}{}%
+\contentsline {subsection}{\numberline {}\textbf {Geting (Alternativ)}}{78}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vargtass}}{79}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vargtass (Alternativ)}}{79}{}%
+\contentsline {subsection}{\numberline {}\textbf {Tequila Sunrise}}{80}{}%
+\contentsline {subsection}{\numberline {}\textbf {Tequila Sunrise (Alternativ)}}{81}{}%
+\contentsline {subsection}{\numberline {}\textbf {Pajala Sunrise}}{81}{}%
+\contentsline {subsection}{\numberline {}\textbf {Ubåt}}{82}{}%
+\contentsline {subsection}{\numberline {}\textbf {Atomubåt}}{83}{}%
+\contentsline {subsection}{\numberline {}\textbf {Bonka Bäver}}{84}{}%
+\contentsline {section}{\numberline {}Spel \& lekar}{85}{}%
+\contentsline {subsection}{\numberline {}\textbf {Fuck U}}{85}{}%
+\contentsline {subsection}{\numberline {}\textbf {Caps}}{85}{}%
+\contentsline {subsection}{\numberline {}\textbf {Threeman}}{85}{}%
+\contentsline {subsection}{\numberline {}\textbf {Fuck the Dealer}}{86}{}%
+\contentsline {section}{\numberline {}Egna påhitt}{88}{}%
