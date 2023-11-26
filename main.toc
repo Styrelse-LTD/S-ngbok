@@ -1,73 +1,87 @@
 \@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
 \contentsline {section}{\numberline {}Inledning}{3}{}%
 \contentsline {section}{\numberline {}\textbf {Förord}}{3}{}%
-\contentsline {section}{\numberline {}\textbf {Att Bonka med Shtil}}{17}{}%
-\contentsline {subsection}{\numberline {}\textbf {Klädselbeteckningar}}{17}{}%
-\contentsline {subsection}{\numberline {}\textbf {Klädsel för Herrar}}{18}{}%
-\contentsline {subsubsection}{\numberline {}\textbf {Frack}}{18}{}%
-\contentsline {subsubsection}{\numberline {}\textbf {Smoking}}{21}{}%
-\contentsline {subsubsection}{\numberline {}\textbf {Kavajkostym}}{23}{}%
-\contentsline {subsection}{\numberline {}\textbf {Klädsel för Damer}}{24}{}%
-\contentsline {subsubsection}{\numberline {}\textbf {Galaklänning}}{24}{}%
-\contentsline {subsubsection}{\numberline {}\textbf {Aftonklänning}}{24}{}%
-\contentsline {subsubsection}{\numberline {}\textbf {Mellan klänning}}{24}{}%
-\contentsline {subsubsection}{\numberline {}\textbf {Vardagsklänning}}{25}{}%
-\contentsline {section}{\numberline {}\textbf {Hyfs och Etikett}}{26}{}%
-\contentsline {subsection}{\numberline {}\textbf {Skålande}}{27}{}%
-\contentsline {subsection}{\numberline {}\textbf {Tal och samtal}}{30}{}%
-\contentsline {subsection}{\numberline {}Bal}{32}{}%
-\contentsline {subsection}{\numberline {}Sittning}{33}{}%
-\contentsline {subsubsection}{\numberline {}Finsittning}{33}{}%
-\contentsline {subsubsection}{\numberline {}Standardsittning}{34}{}%
-\contentsline {subsubsection}{\numberline {}Fulsittning}{34}{}%
-\contentsline {section}{\numberline {}Patriotiska sånger}{35}{}%
-\contentsline {subsection}{\numberline {}\textbf {Du Gamla, Du fria}}{35}{}%
-\contentsline {subsection}{\numberline {}\textbf {Kungssången}}{36}{}%
-\contentsline {subsection}{\numberline {}\textbf {Sveriges Flagga}}{38}{}%
-\contentsline {section}{\numberline {}Föreningssånger}{39}{}%
-\contentsline {subsection}{\numberline {}\textbf {MDH låten}}{39}{}%
-\contentsline {subsection}{\numberline {}\textbf {Data song}}{42}{}%
-\contentsline {subsection}{\numberline {}\textbf {LTDs lila visa}}{44}{}%
-\contentsline {subsection}{\numberline {}\textbf {LTD:s lila PhestPhix}}{46}{}%
-\contentsline {subsection}{\numberline {}\textbf {Bonksången}}{47}{}%
-\contentsline {subsection}{\numberline {}\textbf {Jas-Hymn}}{49}{}%
-\contentsline {subsection}{\numberline {}\textbf {JASen}}{50}{}%
-\contentsline {subsection}{\numberline {}\textbf {Rida Get}}{51}{}%
-\contentsline {subsection}{\numberline {}\textbf {PPM'arn}}{51}{}%
-\contentsline {subsection}{\numberline {}\textbf {ALF Lärarvisan}}{52}{}%
-\contentsline {subsection}{\numberline {}\textbf {Byggshymnen}}{53}{}%
-\contentsline {subsection}{\numberline {}\textbf {Vi är Beware!}}{53}{}%
-\contentsline {subsection}{\numberline {}\textbf {Folke--sången}}{56}{}%
-\contentsline {subsection}{\numberline {}\textbf {Inga som IMF}}{57}{}%
-\contentsline {subsection}{\numberline {}\textbf {???}}{59}{}%
-\contentsline {subsection}{\numberline {}\textbf {???}}{59}{}%
-\contentsline {subsection}{\numberline {}\textbf {Sjukgymnastlåten}}{60}{}%
-\contentsline {subsection}{\numberline {}\textbf {???}}{62}{}%
-\contentsline {subsection}{\numberline {}\textbf {Vart vi går}}{62}{}%
-\contentsline {section}{\numberline {}Datasånger}{64}{}%
-\contentsline {subsection}{\numberline {}\textbf {Logga in, logga ut}}{64}{}%
-\contentsline {subsection}{\numberline {}\textbf {It is free}}{65}{}%
-\contentsline {subsection}{\numberline {}\textbf {Write in C}}{67}{}%
-\contentsline {subsection}{\numberline {}\textbf {Länka lilla dator där}}{70}{}%
-\contentsline {subsection}{\numberline {}\textbf {Kommandotolken}}{71}{}%
-\contentsline {subsection}{\numberline {}\textbf {Mors lilla dator}}{73}{}%
-\contentsline {section}{\numberline {}Drinktips}{73}{}%
-\contentsline {subsection}{\numberline {}\textbf {Beslutsångest}}{74}{}%
-\contentsline {subsection}{\numberline {}\textbf {Screwdriver}}{77}{}%
-\contentsline {subsection}{\numberline {}\textbf {Screwdriver (Alternativ)}}{77}{}%
-\contentsline {subsection}{\numberline {}\textbf {Geting}}{78}{}%
-\contentsline {subsection}{\numberline {}\textbf {Geting (Alternativ)}}{78}{}%
-\contentsline {subsection}{\numberline {}\textbf {Vargtass}}{79}{}%
-\contentsline {subsection}{\numberline {}\textbf {Vargtass (Alternativ)}}{79}{}%
-\contentsline {subsection}{\numberline {}\textbf {Tequila Sunrise}}{80}{}%
-\contentsline {subsection}{\numberline {}\textbf {Tequila Sunrise (Alternativ)}}{81}{}%
-\contentsline {subsection}{\numberline {}\textbf {Pajala Sunrise}}{81}{}%
-\contentsline {subsection}{\numberline {}\textbf {Ubåt}}{82}{}%
-\contentsline {subsection}{\numberline {}\textbf {Atomubåt}}{83}{}%
-\contentsline {subsection}{\numberline {}\textbf {Bonka Bäver}}{84}{}%
-\contentsline {section}{\numberline {}Spel \& lekar}{85}{}%
-\contentsline {subsection}{\numberline {}\textbf {Fuck U}}{85}{}%
-\contentsline {subsection}{\numberline {}\textbf {Caps}}{85}{}%
-\contentsline {subsection}{\numberline {}\textbf {Threeman}}{85}{}%
-\contentsline {subsection}{\numberline {}\textbf {Fuck the Dealer}}{86}{}%
-\contentsline {section}{\numberline {}Egna påhitt}{88}{}%
+\contentsline {section}{\numberline {}\textbf {Att Bonka med Shtil}}{18}{}%
+\contentsline {subsection}{\numberline {}\textbf {Klädselbeteckningar}}{18}{}%
+\contentsline {subsection}{\numberline {}\textbf {Klädsel för Herrar}}{19}{}%
+\contentsline {subsubsection}{\numberline {}\textbf {Frack}}{19}{}%
+\contentsline {subsubsection}{\numberline {}\textbf {Smoking}}{22}{}%
+\contentsline {subsubsection}{\numberline {}\textbf {Kavajkostym}}{24}{}%
+\contentsline {subsection}{\numberline {}\textbf {Klädsel för Damer}}{25}{}%
+\contentsline {subsubsection}{\numberline {}\textbf {Galaklänning}}{25}{}%
+\contentsline {subsubsection}{\numberline {}\textbf {Aftonklänning}}{25}{}%
+\contentsline {subsubsection}{\numberline {}\textbf {Mellan klänning}}{25}{}%
+\contentsline {subsubsection}{\numberline {}\textbf {Vardagsklänning}}{26}{}%
+\contentsline {section}{\numberline {}\textbf {Hyfs och Etikett}}{27}{}%
+\contentsline {subsection}{\numberline {}\textbf {Skålande}}{28}{}%
+\contentsline {subsection}{\numberline {}\textbf {Tal och samtal}}{31}{}%
+\contentsline {subsection}{\numberline {}Bal}{33}{}%
+\contentsline {subsection}{\numberline {}Sittning}{34}{}%
+\contentsline {subsubsection}{\numberline {}Finsittning}{35}{}%
+\contentsline {subsubsection}{\numberline {}Standardsittning}{35}{}%
+\contentsline {subsubsection}{\numberline {}Fulsittning}{36}{}%
+\contentsline {section}{\numberline {}Patriotiska sånger}{37}{}%
+\contentsline {subsection}{\numberline {}\textbf {Du Gamla, Du fria}}{37}{}%
+\contentsline {subsection}{\numberline {}\textbf {Kungssången}}{38}{}%
+\contentsline {subsection}{\numberline {}\textbf {Sveriges Flagga}}{40}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vårt land}}{41}{}%
+\contentsline {subsection}{\numberline {}\textbf {Sverige}}{42}{}%
+\contentsline {subsection}{\numberline {}\textbf {Längtan till landet}}{43}{}%
+\contentsline {subsection}{\numberline {}\textbf {En liten blå Förgätmigej}}{44}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vårvindar friska}}{45}{}%
+\contentsline {subsection}{\numberline {}\textbf {Nu grönskar det}}{45}{}%
+\contentsline {subsection}{\numberline {}\textbf {Ja vi elsker}}{46}{}%
+\contentsline {subsection}{\numberline {}\textbf {Den blomstedtid nu kommer}}{47}{}%
+\contentsline {section}{\numberline {}Föreningssånger}{49}{}%
+\contentsline {subsection}{\numberline {}\textbf {MDH låten}}{49}{}%
+\contentsline {subsection}{\numberline {}\textbf {Data song}}{52}{}%
+\contentsline {subsection}{\numberline {}\textbf {LTDs lila visa}}{54}{}%
+\contentsline {subsection}{\numberline {}\textbf {LTD:s lila PhestPhix}}{56}{}%
+\contentsline {subsection}{\numberline {}\textbf {Bonksången}}{57}{}%
+\contentsline {subsection}{\numberline {}\textbf {JASen}}{59}{}%
+\contentsline {subsection}{\numberline {}\textbf {Rida Get}}{59}{}%
+\contentsline {subsection}{\numberline {}\textbf {PPM'arn}}{60}{}%
+\contentsline {subsection}{\numberline {}\textbf {ALF Lärarvisan}}{61}{}%
+\contentsline {subsection}{\numberline {}\textbf {Byggshymnen}}{62}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vi är Beware!}}{62}{}%
+\contentsline {subsection}{\numberline {}\textbf {Folke--sången}}{65}{}%
+\contentsline {subsection}{\numberline {}\textbf {Inga som IMF}}{66}{}%
+\contentsline {subsection}{\numberline {}\textbf {???}}{68}{}%
+\contentsline {subsection}{\numberline {}\textbf {???}}{68}{}%
+\contentsline {subsection}{\numberline {}\textbf {Sjukgymnastlåten}}{69}{}%
+\contentsline {subsection}{\numberline {}\textbf {???}}{71}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vart vi går}}{71}{}%
+\contentsline {section}{\numberline {}Datasånger}{73}{}%
+\contentsline {subsection}{\numberline {}\textbf {Logga in, logga ut}}{73}{}%
+\contentsline {subsection}{\numberline {}\textbf {It is free}}{74}{}%
+\contentsline {subsection}{\numberline {}\textbf {Write in C}}{76}{}%
+\contentsline {subsection}{\numberline {}\textbf {Länka lilla dator där}}{79}{}%
+\contentsline {subsection}{\numberline {}\textbf {Kommandotolken}}{80}{}%
+\contentsline {subsection}{\numberline {}\textbf {Mors lilla dator}}{82}{}%
+\contentsline {section}{\numberline {}Flygarsånger}{83}{}%
+\contentsline {subsection}{\numberline {}\textbf {Ode till blygbensinet}}{83}{}%
+\contentsline {subsection}{\numberline {}\textbf {Gasflygmaskinen}}{84}{}%
+\contentsline {subsection}{\numberline {}\textbf {Flygarsupen}}{85}{}%
+\contentsline {subsection}{\numberline {}\textbf {Flygarhalvan}}{86}{}%
+\contentsline {subsection}{\numberline {}\textbf {Sten}}{87}{}%
+\contentsline {subsection}{\numberline {}\textbf {Jas-Hymn}}{88}{}%
+\contentsline {section}{\numberline {}Drinktips}{90}{}%
+\contentsline {subsection}{\numberline {}\textbf {Beslutsångest}}{90}{}%
+\contentsline {subsection}{\numberline {}\textbf {Screwdriver}}{93}{}%
+\contentsline {subsection}{\numberline {}\textbf {Screwdriver (Alternativ)}}{93}{}%
+\contentsline {subsection}{\numberline {}\textbf {Geting}}{94}{}%
+\contentsline {subsection}{\numberline {}\textbf {Geting (Alternativ)}}{94}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vargtass}}{95}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vargtass (Alternativ)}}{95}{}%
+\contentsline {subsection}{\numberline {}\textbf {Tequila Sunrise}}{96}{}%
+\contentsline {subsection}{\numberline {}\textbf {Tequila Sunrise (Alternativ)}}{97}{}%
+\contentsline {subsection}{\numberline {}\textbf {Pajala Sunrise}}{97}{}%
+\contentsline {subsection}{\numberline {}\textbf {Ubåt}}{98}{}%
+\contentsline {subsection}{\numberline {}\textbf {Atomubåt}}{99}{}%
+\contentsline {subsection}{\numberline {}\textbf {Bonka Bäver}}{100}{}%
+\contentsline {section}{\numberline {}Spel \& lekar}{101}{}%
+\contentsline {subsection}{\numberline {}\textbf {Fuck U}}{101}{}%
+\contentsline {subsection}{\numberline {}\textbf {Caps}}{101}{}%
+\contentsline {subsection}{\numberline {}\textbf {Threeman}}{101}{}%
+\contentsline {subsection}{\numberline {}\textbf {Fuck the Dealer}}{102}{}%
+\contentsline {section}{\numberline {}Egna påhitt}{104}{}%
