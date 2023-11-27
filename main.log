@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.24)  26 NOV 2023 16:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.24)  27 NOV 2023 10:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1202,9 +1202,52 @@ Package pdftex.def Info: Media/Artboard 1_gray_l.png  used on input line 136.
  [88]
 File: Media/Artboard 2_gray_l.png Graphic file (type png)
 <use Media/Artboard 2_gray_l.png>
-Package pdftex.def Info: Media/Artboard 2_gray_l.png  used on input line 141.
+Package pdftex.def Info: Media/Artboard 2_gray_l.png  used on input line 164.
 (pdftex.def)             Requested size: 298.75394pt x 422.29149pt.
- [89]) (Kapitel/Drinktips.tex
+ [89]
+File: Media/Artboard 1_gray_l.png Graphic file (type png)
+<use Media/Artboard 1_gray_l.png>
+Package pdftex.def Info: Media/Artboard 1_gray_l.png  used on input line 164.
+(pdftex.def)             Requested size: 298.75394pt x 422.13649pt.
+ [90]
+File: Media/Artboard 2_gray_l.png Graphic file (type png)
+<use Media/Artboard 2_gray_l.png>
+Package pdftex.def Info: Media/Artboard 2_gray_l.png  used on input line 181.
+(pdftex.def)             Requested size: 298.75394pt x 422.29149pt.
+ [91]
+Underfull \hbox (badness 10000) in paragraph at lines 185--192
+
+ []
+
+File: Media/Artboard 1_gray_l.png Graphic file (type png)
+<use Media/Artboard 1_gray_l.png>
+Package pdftex.def Info: Media/Artboard 1_gray_l.png  used on input line 192.
+(pdftex.def)             Requested size: 298.75394pt x 422.13649pt.
+[92]
+File: Media/Artboard 2_gray_l.png Graphic file (type png)
+<use Media/Artboard 2_gray_l.png>
+Package pdftex.def Info: Media/Artboard 2_gray_l.png  used on input line 222.
+(pdftex.def)             Requested size: 298.75394pt x 422.29149pt.
+ [93]
+Underfull \hbox (badness 10000) in paragraph at lines 228--231
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 234--237
+
+ []
+
+File: Media/Artboard 1_gray_l.png Graphic file (type png)
+<use Media/Artboard 1_gray_l.png>
+Package pdftex.def Info: Media/Artboard 1_gray_l.png  used on input line 237.
+(pdftex.def)             Requested size: 298.75394pt x 422.13649pt.
+[94]
+File: Media/Artboard 2_gray_l.png Graphic file (type png)
+<use Media/Artboard 2_gray_l.png>
+Package pdftex.def Info: Media/Artboard 2_gray_l.png  used on input line 242.
+(pdftex.def)             Requested size: 298.75394pt x 422.29149pt.
+ [95]) (Kapitel/Drinktips.tex
 Overfull \hbox (9.9755pt too wide) in paragraph at lines 20--21
 \OT1/cmr/m/n/10 besluts^^Wangest, d^^Wa den hj^^?alper till att v^^?alja. Drinken
  []
@@ -1213,27 +1256,27 @@ File: Media/Artboard 1.png Graphic file (type png)
 <use Media/Artboard 1.png>
 Package pdftex.def Info: Media/Artboard 1.png  used on input line 27.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
-[90]
+[96]
 File: Media/Artboard 2.png Graphic file (type png)
 <use Media/Artboard 2.png>
 Package pdftex.def Info: Media/Artboard 2.png  used on input line 45.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
- [91]
+ [97]
 File: Media/Artboard 1.png Graphic file (type png)
 <use Media/Artboard 1.png>
 Package pdftex.def Info: Media/Artboard 1.png  used on input line 56.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
- [92]
+ [98]
 File: Media/Artboard 2.png Graphic file (type png)
 <use Media/Artboard 2.png>
 Package pdftex.def Info: Media/Artboard 2.png  used on input line 79.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
- [93]
+ [99]
 File: Media/Artboard 1.png Graphic file (type png)
 <use Media/Artboard 1.png>
 Package pdftex.def Info: Media/Artboard 1.png  used on input line 94.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
- [94]
+ [100]
 Overfull \hbox (2.7903pt too wide) in paragraph at lines 108--109
 []\OT1/cmr/m/n/10 OBS! Om lin-gonet f^^War ligga i f^^?or l^^?ange kan smaken
  []
@@ -1242,7 +1285,7 @@ File: Media/Artboard 2.png Graphic file (type png)
 <use Media/Artboard 2.png>
 Package pdftex.def Info: Media/Artboard 2.png  used on input line 119.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
-[95]
+[101]
 Overfull \hbox (6.26244pt too wide) in paragraph at lines 120--121
 []\OT1/cmr/m/n/10 H^^?all i tequila och fyll sedan upp med apelsin-
  []
@@ -1256,27 +1299,27 @@ File: Media/Artboard 1.png Graphic file (type png)
 <use Media/Artboard 1.png>
 Package pdftex.def Info: Media/Artboard 1.png  used on input line 133.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
-[96]
+[102]
 File: Media/Artboard 2.png Graphic file (type png)
 <use Media/Artboard 2.png>
 Package pdftex.def Info: Media/Artboard 2.png  used on input line 154.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
- [97]
+ [103]
 File: Media/Artboard 1.png Graphic file (type png)
 <use Media/Artboard 1.png>
 Package pdftex.def Info: Media/Artboard 1.png  used on input line 171.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
- [98]
+ [104]
 File: Media/Artboard 2.png Graphic file (type png)
 <use Media/Artboard 2.png>
 Package pdftex.def Info: Media/Artboard 2.png  used on input line 181.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
- [99]
+ [105]
 File: Media/Artboard 1.png Graphic file (type png)
 <use Media/Artboard 1.png>
 Package pdftex.def Info: Media/Artboard 1.png  used on input line 191.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
- [100]) (Kapitel/Spel & lekar.tex
+ [106]) (Kapitel/Spel & lekar.tex
 Overfull \hbox (2.59589pt too wide) in paragraph at lines 14--15
 \OT1/cmr/m/n/10 //Fr^^Wan bonkbo-ken k^^?anns som en gam-mel sl^^?akting
  []
@@ -1285,7 +1328,7 @@ File: Media/Artboard 2_light.png Graphic file (type png)
 <use Media/Artboard 2_light.png>
 Package pdftex.def Info: Media/Artboard 2_light.png  used on input line 37.
 (pdftex.def)             Requested size: 298.75394pt x 422.05115pt.
-[101]
+[107]
 Overfull \hbox (8.51244pt too wide) in paragraph at lines 47--48
 []\OT1/cmr/m/n/10 Eftersom hur my-cket man sj^^?alv dricker ^^?ar beroende
  []
@@ -1294,69 +1337,69 @@ File: Media/Artboard 1_light.png Graphic file (type png)
 <use Media/Artboard 1_light.png>
 Package pdftex.def Info: Media/Artboard 1_light.png  used on input line 48.
 (pdftex.def)             Requested size: 298.75394pt x 421.89624pt.
-[102]
+[108]
 File: Media/Artboard 2_light.png Graphic file (type png)
 <use Media/Artboard 2_light.png>
 Package pdftex.def Info: Media/Artboard 2_light.png  used on input line 49.
 (pdftex.def)             Requested size: 298.75394pt x 422.05115pt.
- [103]) (Kapitel/Egna påhitt.tex
+ [109]) (Kapitel/Egna påhitt.tex
 File: Media/Artboard 1.png Graphic file (type png)
 <use Media/Artboard 1.png>
 Package pdftex.def Info: Media/Artboard 1.png  used on input line 14.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
- [104]
+ [110]
 File: Media/Artboard 2.png Graphic file (type png)
 <use Media/Artboard 2.png>
 Package pdftex.def Info: Media/Artboard 2.png  used on input line 16.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
- [105]
+ [111]
 File: Media/Artboard 1.png Graphic file (type png)
 <use Media/Artboard 1.png>
 Package pdftex.def Info: Media/Artboard 1.png  used on input line 18.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
- [106]
+ [112]
 File: Media/Artboard 2.png Graphic file (type png)
 <use Media/Artboard 2.png>
 Package pdftex.def Info: Media/Artboard 2.png  used on input line 20.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
- [107]
+ [113]
 File: Media/Artboard 1.png Graphic file (type png)
 <use Media/Artboard 1.png>
 Package pdftex.def Info: Media/Artboard 1.png  used on input line 22.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
- [108]
+ [114]
 File: Media/Artboard 2.png Graphic file (type png)
 <use Media/Artboard 2.png>
 Package pdftex.def Info: Media/Artboard 2.png  used on input line 24.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
- [109]
+ [115]
 File: Media/Artboard 1.png Graphic file (type png)
 <use Media/Artboard 1.png>
 Package pdftex.def Info: Media/Artboard 1.png  used on input line 26.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
- [110]
+ [116]
 File: Media/Artboard 2.png Graphic file (type png)
 <use Media/Artboard 2.png>
 Package pdftex.def Info: Media/Artboard 2.png  used on input line 28.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
- [111]) (Kapitel/Index.tex) (Kapitel/Alfabetiskt register.tex) (main.aux)
+ [117]) (Kapitel/Index.tex) (Kapitel/Alfabetiskt register.tex) (main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14981 strings out of 475247
- 299348 string characters out of 5774180
+ 14993 strings out of 475247
+ 299634 string characters out of 5774180
  1934785 words of memory out of 5000000
- 36204 multiletter control sequences out of 15000+600000
+ 36216 multiletter control sequences out of 15000+600000
  563364 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  118i,13n,120p,4022b,804s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Ashley Björs\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (111 pages, 646109 bytes).
+Output written on main.pdf (117 pages, 653745 bytes).
 PDF statistics:
- 429 PDF objects out of 1000 (max. 8388607)
+ 448 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
