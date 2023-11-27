@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.24)  27 NOV 2023 12:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10) (preloaded format=pdflatex 2023.11.24)  27 NOV 2023 12:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1489,28 +1489,63 @@ File: Media/Artboard 1.png Graphic file (type png)
 <use Media/Artboard 1.png>
 Package pdftex.def Info: Media/Artboard 1.png  used on input line 28.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
- [130]) (Kapitel/Index.tex) (Kapitel/Alfabetiskt register.tex) (main.aux)
+ [130]) (Kapitel/Index.tex
+File: Media/Artboard 2_light.png Graphic file (type png)
+<use Media/Artboard 2_light.png>
+Package pdftex.def Info: Media/Artboard 2_light.png  used on input line 11.
+(pdftex.def)             Requested size: 298.75394pt x 422.05115pt.
+ [131]
+File: Media/Artboard 1_light.png Graphic file (type png)
+<use Media/Artboard 1_light.png>
+Package pdftex.def Info: Media/Artboard 1_light.png  used on input line 11.
+(pdftex.def)             Requested size: 298.75394pt x 421.89624pt.
+ [132]
+File: Media/Artboard 2_light.png Graphic file (type png)
+<use Media/Artboard 2_light.png>
+Package pdftex.def Info: Media/Artboard 2_light.png  used on input line 11.
+(pdftex.def)             Requested size: 298.75394pt x 422.05115pt.
+ [133]
+File: Media/Artboard 1_light.png Graphic file (type png)
+<use Media/Artboard 1_light.png>
+Package pdftex.def Info: Media/Artboard 1_light.png  used on input line 11.
+(pdftex.def)             Requested size: 298.75394pt x 421.89624pt.
+ [134]
+Overfull \hbox (35.9235pt too wide) in paragraph at lines 11--11
+ [][] []\OT1/cmr/bx/n/10 StarbanaSju (Fylle-fl-y-arnas Parads^^Wang) [][]  
+ []
+
+File: Media/Artboard 2_light.png Graphic file (type png)
+<use Media/Artboard 2_light.png>
+Package pdftex.def Info: Media/Artboard 2_light.png  used on input line 11.
+(pdftex.def)             Requested size: 298.75394pt x 422.05115pt.
+[135]
+File: Media/Artboard 1_light.png Graphic file (type png)
+<use Media/Artboard 1_light.png>
+Package pdftex.def Info: Media/Artboard 1_light.png  used on input line 11.
+(pdftex.def)             Requested size: 298.75394pt x 421.89624pt.
+ [136]
+File: Media/Artboard 2_light.png Graphic file (type png)
+<use Media/Artboard 2_light.png>
+Package pdftex.def Info: Media/Artboard 2_light.png  used on input line 12.
+(pdftex.def)             Requested size: 298.75394pt x 422.05115pt.
+ [137]) (Kapitel/Alfabetiskt register.tex) (main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 15020 strings out of 475247
- 300238 string characters out of 5774180
+ 15033 strings out of 475247
+ 300534 string characters out of 5774180
  1934785 words of memory out of 5000000
- 36243 multiletter control sequences out of 15000+600000
+ 36256 multiletter control sequences out of 15000+600000
  563364 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  118i,13n,120p,4022b,804s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Ashley Björs\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (130 pages, 670204 bytes).
+Output written on main.pdf (137 pages, 680508 bytes).
 PDF statistics:
- 489 PDF objects out of 1000 (max. 8388607)
+ 511 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
