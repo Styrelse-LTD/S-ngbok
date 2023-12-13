@@ -1,0 +1,256 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\contentsline {section}{\numberline {}Inledning}{3}{}%
+\contentsline {section}{\numberline {}\textbf {Förord}}{3}{}%
+\contentsline {section}{\numberline {}\textbf {Att Bonka med Shtil}}{18}{}%
+\contentsline {subsection}{\numberline {}\textbf {Klädselbeteckningar}}{18}{}%
+\contentsline {subsection}{\numberline {}\textbf {Klädsel för Herrar}}{19}{}%
+\contentsline {subsubsection}{\numberline {}\textbf {Frack}}{19}{}%
+\contentsline {subsubsection}{\numberline {}\textbf {Smoking}}{22}{}%
+\contentsline {subsubsection}{\numberline {}\textbf {Kavajkostym}}{24}{}%
+\contentsline {subsection}{\numberline {}\textbf {Klädsel för Damer}}{25}{}%
+\contentsline {subsubsection}{\numberline {}\textbf {Galaklänning}}{25}{}%
+\contentsline {subsubsection}{\numberline {}\textbf {Aftonklänning}}{25}{}%
+\contentsline {subsubsection}{\numberline {}\textbf {Mellan klänning}}{25}{}%
+\contentsline {subsubsection}{\numberline {}\textbf {Vardagsklänning}}{26}{}%
+\contentsline {section}{\numberline {}\textbf {Hyfs och Etikett}}{27}{}%
+\contentsline {subsection}{\numberline {}\textbf {Skålande}}{28}{}%
+\contentsline {subsection}{\numberline {}\textbf {Tal och samtal}}{31}{}%
+\contentsline {subsection}{\numberline {}Bal}{33}{}%
+\contentsline {subsection}{\numberline {}Sittning}{34}{}%
+\contentsline {subsubsection}{\numberline {}Finsittning}{35}{}%
+\contentsline {subsubsection}{\numberline {}Standardsittning}{35}{}%
+\contentsline {subsubsection}{\numberline {}Fulsittning}{36}{}%
+\contentsline {section}{\numberline {}Patriotiska sånger}{37}{}%
+\contentsline {subsection}{\numberline {}\textbf {Du Gamla, Du fria}}{37}{}%
+\contentsline {subsection}{\numberline {}\textbf {Kungssången}}{38}{}%
+\contentsline {subsection}{\numberline {}\textbf {Sveriges Flagga}}{40}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vårt land}}{41}{}%
+\contentsline {subsection}{\numberline {}\textbf {Sverige}}{42}{}%
+\contentsline {subsection}{\numberline {}\textbf {Längtan till landet}}{43}{}%
+\contentsline {subsection}{\numberline {}\textbf {En liten blå Förgätmigej}}{44}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vårvindar friska}}{45}{}%
+\contentsline {subsection}{\numberline {}\textbf {Nu grönskar det}}{45}{}%
+\contentsline {subsection}{\numberline {}\textbf {Ja vi elsker}}{46}{}%
+\contentsline {subsection}{\numberline {}\textbf {Den blomstedtid nu kommer}}{47}{}%
+\contentsline {section}{\numberline {}Föreningssånger}{49}{}%
+\contentsline {subsection}{\numberline {}\textbf {MDH låten}}{49}{}%
+\contentsline {subsection}{\numberline {}\textbf {Data song}}{52}{}%
+\contentsline {subsection}{\numberline {}\textbf {LTDs lila visa}}{54}{}%
+\contentsline {subsection}{\numberline {}\textbf {LTD:s lila PhestPhix}}{56}{}%
+\contentsline {subsection}{\numberline {}\textbf {Bonksången}}{57}{}%
+\contentsline {subsection}{\numberline {}\textbf {JASen}}{59}{}%
+\contentsline {subsection}{\numberline {}\textbf {Rida Get}}{59}{}%
+\contentsline {subsection}{\numberline {}\textbf {PPM'arn}}{60}{}%
+\contentsline {subsection}{\numberline {}\textbf {ALF Lärarvisan}}{61}{}%
+\contentsline {subsection}{\numberline {}\textbf {Byggshymnen}}{62}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vi är Beware!}}{62}{}%
+\contentsline {subsection}{\numberline {}\textbf {Folke--sången}}{65}{}%
+\contentsline {subsection}{\numberline {}\textbf {Inga som IMF}}{66}{}%
+\contentsline {subsection}{\numberline {}\textbf {???}}{68}{}%
+\contentsline {subsection}{\numberline {}\textbf {???}}{68}{}%
+\contentsline {subsection}{\numberline {}\textbf {Sjukgymnastlåten}}{69}{}%
+\contentsline {subsection}{\numberline {}\textbf {???}}{71}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vart vi går}}{71}{}%
+\contentsline {section}{\numberline {}Datasånger}{73}{}%
+\contentsline {subsection}{\numberline {}\textbf {Logga in, logga ut}}{73}{}%
+\contentsline {subsection}{\numberline {}\textbf {It is free}}{74}{}%
+\contentsline {subsection}{\numberline {}\textbf {Write in C}}{76}{}%
+\contentsline {subsection}{\numberline {}\textbf {Länka lilla dator där}}{79}{}%
+\contentsline {subsection}{\numberline {}\textbf {Kommandotolken}}{80}{}%
+\contentsline {subsection}{\numberline {}\textbf {Mors lilla dator}}{82}{}%
+\contentsline {section}{\numberline {}Flygarsånger}{83}{}%
+\contentsline {subsection}{\numberline {}\textbf {Ode till blygbensinet}}{83}{}%
+\contentsline {subsection}{\numberline {}\textbf {Gasflygmaskinen}}{84}{}%
+\contentsline {subsection}{\numberline {}\textbf {Flygarsupen}}{85}{}%
+\contentsline {subsection}{\numberline {}\textbf {Flygarhalvan}}{86}{}%
+\contentsline {subsection}{\numberline {}\textbf {Sten}}{87}{}%
+\contentsline {subsection}{\numberline {}\textbf {Jas-Hymn}}{88}{}%
+\contentsline {subsection}{\numberline {}\textbf {Stigfinarvisan}}{90}{}%
+\contentsline {subsection}{\numberline {}\textbf {Molnen}}{93}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vi vill flyga}}{94}{}%
+\contentsline {subsection}{\numberline {}\textbf {T-teknologen}}{95}{}%
+\contentsline {subsection}{\numberline {}\textbf {Rymdraketsvalsen}}{96}{}%
+\contentsline {subsection}{\numberline {}\textbf {Lyft ditt välförsedda glas}}{98}{}%
+\contentsline {subsection}{\numberline {}\textbf {StarbanaSju (Fylleflyarnas Paradsång)}}{99}{}%
+\contentsline {subsection}{\numberline {}\textbf {Här kommer flygaressen}}{100}{}%
+\contentsline {subsection}{\numberline {}\textbf {En solig sommardag}}{102}{}%
+\contentsline {subsection}{\numberline {}\textbf {Bamsevisan}}{103}{}%
+\contentsline {subsection}{\numberline {}\textbf {MACH-visan}}{105}{}%
+\contentsline {subsection}{\numberline {}\textbf {Flygarvisan}}{106}{}%
+\contentsline {subsection}{\numberline {}\textbf {BumbiN0llan}}{107}{}%
+\contentsline {subsection}{\numberline {}\textbf {FLygturen}}{108}{}%
+\contentsline {subsection}{\numberline {}\textbf {Tunnans hymn}}{110}{}%
+\contentsline {subsection}{\numberline {}\textbf {MACHs sommarvisa}}{111}{}%
+\contentsline {subsection}{\numberline {}\textbf {Ser du n0llan}}{112}{}%
+\contentsline {subsection}{\numberline {}\textbf {You've lost that loving feeling}}{113}{}%
+\contentsline {subsection}{\numberline {}\textbf {Våran draken}}{115}{}%
+\contentsline {subsection}{\numberline {}\textbf {Sångsparks Hyllningen}}{117}{}%
+\contentsline {subsection}{\numberline {}\textbf {Eloise}}{118}{}%
+\contentsline {section}{\numberline {}Phörphesten}{120}{}%
+\contentsline {subsection}{\numberline {}\textbf {En enkel liten sång}}{120}{}%
+\contentsline {subsection}{\numberline {}\textbf {Hej allesammans}}{121}{}%
+\contentsline {subsection}{\numberline {}\textbf {Phesten kan börja}}{121}{}%
+\contentsline {subsection}{\numberline {}\textbf {Välkomstvisa}}{123}{}%
+\contentsline {subsection}{\numberline {}\textbf {Öppnings skål}}{124}{}%
+\contentsline {section}{\numberline {}Phestvisor}{125}{}%
+\contentsline {subsection}{\numberline {}\textbf {Bolaget}}{125}{}%
+\contentsline {subsection}{\numberline {}\textbf {Det var i vår ungdoms fagraste vår}}{126}{}%
+\contentsline {subsection}{\numberline {}\textbf {Portos visa}}{127}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vit vecka}}{129}{}%
+\contentsline {subsection}{\numberline {}\textbf {Druckna sällskap}}{130}{}%
+\contentsline {subsection}{\numberline {}\textbf {Jag ska festa}}{131}{}%
+\contentsline {subsection}{\numberline {}\textbf {Drinking song}}{132}{}%
+\contentsline {subsection}{\numberline {}\textbf {Studenternas Fyllenatt}}{133}{}%
+\contentsline {subsection}{\numberline {}\textbf {Störthärligt full}}{135}{}%
+\contentsline {subsection}{\numberline {}\textbf {Gå på fest}}{137}{}%
+\contentsline {subsection}{\numberline {}\textbf {Rosita}}{138}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vikingen}}{139}{}%
+\contentsline {subsection}{\numberline {}\textbf {Gräv ur tundran}}{140}{}%
+\contentsline {subsection}{\numberline {}\textbf {Fyllerian}}{141}{}%
+\contentsline {subsection}{\numberline {}\textbf {Till Jägermeister}}{142}{}%
+\contentsline {subsection}{\numberline {}\textbf {Undulaten}}{143}{}%
+\contentsline {subsection}{\numberline {}\textbf {Härjarvisan}}{144}{}%
+\contentsline {subsection}{\numberline {}\textbf {Fiskebåt}}{146}{}%
+\contentsline {subsection}{\numberline {}\textbf {Var nöjd med (allt som baren ger)}}{147}{}%
+\contentsline {subsection}{\numberline {}\textbf {Lille Olle}}{148}{}%
+\contentsline {subsection}{\numberline {}\textbf {Ju mer vi är tillsammans}}{150}{}%
+\contentsline {subsection}{\numberline {}\textbf {Fadder din är skit}}{150}{}%
+\contentsline {subsection}{\numberline {}\textbf {Bonka Bonka}}{152}{}%
+\contentsline {subsection}{\numberline {}\textbf {Jesus lever}}{154}{}%
+\contentsline {subsection}{\numberline {}\textbf {}}{155}{}%
+\contentsline {section}{\numberline {}Bordsvisor}{155}{}%
+\contentsline {subsection}{\numberline {}\textbf {En liten blå förgätmigej}}{156}{}%
+\contentsline {subsection}{\numberline {}\textbf {Jag har aldrig vart på snusen}}{157}{}%
+\contentsline {subsection}{\numberline {}\textbf {Fader Abraham}}{158}{}%
+\contentsline {subsection}{\numberline {}\textbf {Brännvin är gott}}{159}{}%
+\contentsline {subsection}{\numberline {}\textbf {Studielånet}}{159}{}%
+\contentsline {subsection}{\numberline {}\textbf {Kalmarevisan}}{160}{}%
+\contentsline {subsection}{\numberline {}\textbf {Knall och fall}}{162}{}%
+\contentsline {subsection}{\numberline {}\textbf {Lambo}}{164}{}%
+\contentsline {subsection}{\numberline {}\textbf {Gråa hår}}{166}{}%
+\contentsline {subsection}{\numberline {}\textbf {Hyfsvisa}}{168}{}%
+\contentsline {subsection}{\numberline {}\textbf {Rönnerdahl}}{169}{}%
+\contentsline {subsection}{\numberline {}\textbf {Det var länge sen}}{170}{}%
+\contentsline {subsection}{\numberline {}\textbf {Sittningsvisa}}{171}{}%
+\contentsline {subsection}{\numberline {}\textbf {I koma}}{172}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vem kan raggla}}{173}{}%
+\contentsline {subsection}{\numberline {}\textbf {Skål för våra vänner}}{174}{}%
+\contentsline {subsection}{\numberline {}\textbf {The basic song}}{175}{}%
+\contentsline {subsection}{\numberline {}\textbf {Temperaturen}}{175}{}%
+\contentsline {subsection}{\numberline {}\textbf {Fredmans sång nr 21 (kort)}}{176}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vem sade Ordet}}{178}{}%
+\contentsline {section}{\numberline {}Öhlvisor}{178}{}%
+\contentsline {subsection}{\numberline {}\textbf {Trivsel}}{179}{}%
+\contentsline {subsection}{\numberline {}\textbf {Hästhandlar’n}}{180}{}%
+\contentsline {subsection}{\numberline {}\textbf {En pilsnerdrickare}}{181}{}%
+\contentsline {subsection}{\numberline {}\textbf {Ölvisa}}{182}{}%
+\contentsline {subsection}{\numberline {}\textbf {Diurvisan}}{183}{}%
+\contentsline {subsection}{\numberline {}\textbf {Öl, öl, öl i glas}}{183}{}%
+\contentsline {subsection}{\numberline {}\textbf {Lapin Kulta}}{184}{}%
+\contentsline {subsection}{\numberline {}\textbf {Ju mera öl vi dricker}}{184}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vi älskar öl}}{185}{}%
+\contentsline {subsection}{\numberline {}\textbf {För ölet är jävla gott }}{186}{}%
+\contentsline {subsection}{\numberline {}\textbf {Strejk på Pripps}}{186}{}%
+\contentsline {subsection}{\numberline {}\textbf {Mer öl}}{188}{}%
+\contentsline {subsection}{\numberline {}\textbf {Min Pilsner}}{190}{}%
+\contentsline {subsection}{\numberline {}\textbf {Var nöjd med öhlen!}}{191}{}%
+\contentsline {subsection}{\numberline {}\textbf {Lasse går med tunga fjät}}{192}{}%
+\contentsline {subsection}{\numberline {}\textbf {Detta glas}}{192}{}%
+\contentsline {subsection}{\numberline {}\textbf {Låt oss höja sejdelglasen}}{193}{}%
+\contentsline {section}{\numberline {}Snapsvisor}{195}{}%
+\contentsline {subsection}{\numberline {}\textbf {Om snapsen}}{195}{}%
+\contentsline {subsection}{\numberline {}\textbf {Feta små ryskor}}{197}{}%
+\contentsline {subsection}{\numberline {}\textbf {Helan går}}{198}{}%
+\contentsline {subsection}{\numberline {}\textbf {Helan var bra }}{198}{}%
+\contentsline {subsection}{\numberline {}\textbf {Hur länge skall på borden}}{199}{}%
+\contentsline {subsection}{\numberline {}\textbf {Hej feskegubbar!}}{200}{}%
+\contentsline {subsection}{\numberline {}\textbf {Humlorna}}{200}{}%
+\contentsline {subsection}{\numberline {}\textbf {Denna thaft}}{201}{}%
+\contentsline {subsection}{\numberline {}\textbf {Nu tar vi den}}{201}{}%
+\contentsline {subsection}{\numberline {}\textbf {Elarens snapsvisa}}{202}{}%
+\contentsline {subsection}{\numberline {}\textbf {Törsten rasar}}{203}{}%
+\contentsline {subsection}{\numberline {}\textbf {Finsk snapsvisa (kort)}}{203}{}%
+\contentsline {subsection}{\numberline {}\textbf {Finsk snapsvisa (lång)}}{204}{}%
+\contentsline {subsection}{\numberline {}\textbf {Snöret}}{204}{}%
+\contentsline {subsection}{\numberline {}\textbf {Öppna bäsken}}{205}{}%
+\contentsline {subsection}{\numberline {}\textbf {Skogskokarvisa}}{206}{}%
+\contentsline {subsection}{\numberline {}\textbf {Ack’va visa}}{207}{}%
+\contentsline {subsection}{\numberline {}\textbf {Ångbåten}}{207}{}%
+\contentsline {subsection}{\numberline {}\textbf {Ode till flygbensinet}}{208}{}%
+\contentsline {subsection}{\numberline {}\textbf {Tallen}}{209}{}%
+\contentsline {subsection}{\numberline {}\textbf {En liten fyllhund}}{209}{}%
+\contentsline {subsection}{\numberline {}\textbf {Nu tar vi rus}}{210}{}%
+\contentsline {subsection}{\numberline {}\textbf {Mera brännvin}}{211}{}%
+\contentsline {subsection}{\numberline {}\textbf {Nubben Goa}}{212}{}%
+\contentsline {subsection}{\numberline {}\textbf {Ser du stjärnan i det blå}}{212}{}%
+\contentsline {subsection}{\numberline {}\textbf {Byssan lull}}{213}{}%
+\contentsline {subsection}{\numberline {}\textbf {Måsen}}{213}{}%
+\contentsline {subsection}{\numberline {}\textbf {Förtsa snapsen heter göken}}{214}{}%
+\contentsline {subsection}{\numberline {}\textbf {Helangorakatt}}{215}{}%
+\contentsline {subsection}{\numberline {}\textbf {Korta Sola’}}{215}{}%
+\contentsline {subsection}{\numberline {}\textbf {Påfyllningssång}}{216}{}%
+\contentsline {subsection}{\numberline {}\textbf {Sill och Nubbe}}{216}{}%
+\contentsline {subsection}{\numberline {}\textbf {En gång i måna’n}}{217}{}%
+\contentsline {subsection}{\numberline {}\textbf {Byssan lull v2}}{218}{}%
+\contentsline {subsection}{\numberline {}\textbf {Låt tersen gå}}{219}{}%
+\contentsline {subsection}{\numberline {}\textbf {Imse vimse hutt}}{220}{}%
+\contentsline {subsection}{\numberline {}\textbf {Nubben goa v2}}{221}{}%
+\contentsline {subsection}{\numberline {}\textbf {Other lands...}}{223}{}%
+\contentsline {subsection}{\numberline {}\textbf {När gäddorna}}{224}{}%
+\contentsline {subsection}{\numberline {}\textbf {Jag var tall en gång}}{224}{}%
+\contentsline {subsection}{\numberline {}\textbf {Nuskaviklämmasepten}}{225}{}%
+\contentsline {subsection}{\numberline {}\textbf {Jag tror, jag tror}}{226}{}%
+\contentsline {section}{\numberline {}Punschvisor}{227}{}%
+\contentsline {subsection}{\numberline {}\textbf {Änglapunschen}}{227}{}%
+\contentsline {subsection}{\numberline {}\textbf {Giv oss vår punsch}}{228}{}%
+\contentsline {subsection}{\numberline {}\textbf {Ärtor och punsch}}{229}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vädjan till punschen}}{230}{}%
+\contentsline {subsection}{\numberline {}\textbf {Krya punschvisan}}{231}{}%
+\contentsline {subsection}{\numberline {}\textbf {Min älskling}}{231}{}%
+\contentsline {subsection}{\numberline {}\textbf {Punsch-Lunch Visa}}{233}{}%
+\contentsline {subsection}{\numberline {}\textbf {Punschpolkett}}{234}{}%
+\contentsline {subsection}{\numberline {}\textbf {Födelsedagspunsch}}{235}{}%
+\contentsline {subsection}{\numberline {}\textbf {Studiemedelsrundo}}{236}{}%
+\contentsline {subsection}{\numberline {}\textbf {Studiemedelsrundo v2}}{236}{}%
+\contentsline {subsection}{\numberline {}\textbf {Punsch punsch}}{238}{}%
+\contentsline {subsection}{\numberline {}\textbf {Tvekan inför punschen}}{239}{}%
+\contentsline {subsection}{\numberline {}\textbf {Djungelpunsch}}{240}{}%
+\contentsline {subsection}{\numberline {}\textbf {Glad såsom få}}{241}{}%
+\contentsline {subsection}{\numberline {}\textbf {Punschens lov}}{242}{}%
+\contentsline {subsection}{\numberline {}\textbf {Valfri punschvisa}}{243}{}%
+\contentsline {subsection}{\numberline {}\textbf {Robespierres punschvisa}}{244}{}%
+\contentsline {subsection}{\numberline {}\textbf {Marco Polos punschvisa}}{245}{}%
+\contentsline {subsection}{\numberline {}\textbf {Punschen kommer (kall)}}{248}{}%
+\contentsline {subsection}{\numberline {}\textbf {Punschen kommer (varm)}}{249}{}%
+\contentsline {subsection}{\numberline {}\textbf {Punschen rinner genom strupen}}{250}{}%
+\contentsline {subsection}{\numberline {}\textbf {Nu har vi punch}}{251}{}%
+\contentsline {subsection}{\numberline {}\textbf {Nya punschvisan}}{252}{}%
+\contentsline {subsection}{\numberline {}\textbf {Jag gillar punschen}}{253}{}%
+\contentsline {section}{\numberline {}Vinvisor}{254}{}%
+\contentsline {subsection}{\numberline {}\textbf {Bordeaux, Bordeaux}}{254}{}%
+\contentsline {subsection}{\numberline {}\textbf {Feta fransyskor}}{255}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vin i glasen}}{256}{}%
+\contentsline {subsection}{\numberline {}\textbf {Hädiska tanke}}{257}{}%
+\contentsline {subsection}{\numberline {}\textbf {Crassus vinsång}}{257}{}%
+\contentsline {section}{\numberline {}Drinktips}{259}{}%
+\contentsline {subsection}{\numberline {}\textbf {Beslutsångest}}{259}{}%
+\contentsline {subsection}{\numberline {}\textbf {Screwdriver}}{262}{}%
+\contentsline {subsection}{\numberline {}\textbf {Screwdriver (Alternativ)}}{262}{}%
+\contentsline {subsection}{\numberline {}\textbf {Geting}}{263}{}%
+\contentsline {subsection}{\numberline {}\textbf {Geting (Alternativ)}}{263}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vargtass}}{264}{}%
+\contentsline {subsection}{\numberline {}\textbf {Vargtass (Alternativ)}}{264}{}%
+\contentsline {subsection}{\numberline {}\textbf {Tequila Sunrise}}{265}{}%
+\contentsline {subsection}{\numberline {}\textbf {Tequila Sunrise (Alternativ)}}{266}{}%
+\contentsline {subsection}{\numberline {}\textbf {Pajala Sunrise}}{266}{}%
+\contentsline {subsection}{\numberline {}\textbf {Ubåt}}{267}{}%
+\contentsline {subsection}{\numberline {}\textbf {Atomubåt}}{268}{}%
+\contentsline {subsection}{\numberline {}\textbf {Bonka Bäver}}{269}{}%
+\contentsline {section}{\numberline {}Spel \& lekar}{270}{}%
+\contentsline {subsection}{\numberline {}\textbf {Fuck U}}{270}{}%
+\contentsline {subsection}{\numberline {}\textbf {Caps}}{270}{}%
+\contentsline {subsection}{\numberline {}\textbf {Threeman}}{270}{}%
+\contentsline {subsection}{\numberline {}\textbf {Fuck the Dealer}}{271}{}%
+\contentsline {section}{\numberline {}Egna påhitt}{273}{}%
+\contentsline {section}{\numberline {}Index}{281}{}%
+\thispagestyle {empty}
