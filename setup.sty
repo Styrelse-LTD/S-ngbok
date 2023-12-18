@@ -66,15 +66,25 @@
   \addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}% Add section to ToC
   % Add more content here, if needed.
 }
-
-
-
 \newcommand{\invisiblesection}[1]{%
   \par\refstepcounter{section}% Increase section counter
   \sectionmark{#1}% Add section mark (header)
   %\addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}% Add section to ToC
   % Add more content here, if needed.
 }
+\newcommand{\invisiblesubsection}[1]{%
+  \par\refstepcounter{subsection}% Increase section counter
+  \subsectionmark{#1}% Add section mark (header)
+  %\addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}% Add section to ToC
+  % Add more content here, if needed.
+}
+\newcommand{\invisiblesubsubsection}[1]{%
+  \par\refstepcounter{subsubsection}% Increase section counter
+  \subsectionmark{#1}% Add subsection mark (header)
+  %\addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}% Add section to ToC
+  % Add more content here, if needed.
+}
+
 
 \renewcommand{\thesection}{} % Removes the numbering from the left side of sections in the ToC
 
@@ -89,10 +99,14 @@
 \usepackage{etoc} % Adds the functionallity to have two ToC
 \setcounter{tocdepth}{3}  
 
+\renewcommand\listoftables{%
+        \@starttoc{lot}%
+}  
 
-
-  
-
+\usepackage{tocloft}
+\setlength{\cftsecindent}{0pt}% Remove indent for \section
+\setlength{\cftsubsecindent}{0pt}% Remove indent for \subsection
+\setlength{\cftsubsubsecindent}{0pt}% Remove indent for \subsubsection
 
 
 \endinput
