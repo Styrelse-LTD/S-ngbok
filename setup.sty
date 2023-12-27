@@ -66,6 +66,7 @@
   \addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}% Add section to ToC
   % Add more content here, if needed.
 }
+% Används där alla sections ska vara osynliga och inte läggas till i toc
 \newcommand{\invisiblesection}[1]{%
   \par\refstepcounter{section}% Increase section counter
   \sectionmark{#1}% Add section mark (header)
@@ -84,7 +85,6 @@
   %\addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}% Add section to ToC
   % Add more content here, if needed.
 }
-
 
 \renewcommand{\thesection}{} % Removes the numbering from the left side of sections in the ToC
 
