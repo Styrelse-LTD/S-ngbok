@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.27)  27 DEC 2023 17:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.27)  27 DEC 2023 18:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -602,11 +602,6 @@ Overfull \hbox (4.42921pt too wide) in paragraph at lines 33--34
 \OT1/cmr/m/n/10 ken v1.001.pdf" lig-gan-des i n^^Wagot skrym-sle i v^^Waran
  []
 
-
-Overfull \hbox (2.75319pt too wide) in paragraph at lines 33--34
-\OT1/cmr/m/n/10 l^^?aser detta. S^^Wa jag sit-ter nu un-der som ordf^^?orande
- []
-
 [7] [8] [9]
 Overfull \hbox (22.48474pt too wide) in paragraph at lines 51--52
 []\OT1/cmr/m/n/10 Det kr^^?avs 2st bonkut-skottare som ^^?ar n^^?arvarande
@@ -833,105 +828,101 @@ File: Media/Artboard 2_light.png Graphic file (type png)
 Package pdftex.def Info: Media/Artboard 2_light.png  used on input line 111.
 (pdftex.def)             Requested size: 298.75394pt x 422.05115pt.
  [25]) (Kapitel/Hyfs och Etikett.tex
-Overfull \hbox (50.04031pt too wide) in paragraph at lines 23--24
-\OT1/cmr/m/n/10 Or-saken d^^?artill ^^?ar kanske s^^?oka i den sven-ska br^^?annvinsglasets
- []
-
-
-Overfull \hbox (5.76248pt too wide) in paragraph at lines 23--24
-\OT1/cmr/m/n/10 fin-ger, P^^Wa detta s^^?attet kunde man inte i o^^?andlighet
- []
-
 <Media/Artboard 1.png, id=98, 598.235pt x 845.1575pt>
 File: Media/Artboard 1.png Graphic file (type png)
 <use Media/Artboard 1.png>
-Package pdftex.def Info: Media/Artboard 1.png  used on input line 24.
+Package pdftex.def Info: Media/Artboard 1.png  used on input line 22.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
-[26 <./Media/Artboard 1.png>]
+ [26 <./Media/Artboard 1.png>]
 <Media/Artboard 2.png, id=103, 598.235pt x 845.1575pt>
 File: Media/Artboard 2.png Graphic file (type png)
 <use Media/Artboard 2.png>
-Package pdftex.def Info: Media/Artboard 2.png  used on input line 33.
+Package pdftex.def Info: Media/Artboard 2.png  used on input line 31.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
  [27 <./Media/Artboard 2.png>]
-Overfull \hbox (5.39218pt too wide) in paragraph at lines 37--38
+Overfull \hbox (5.39218pt too wide) in paragraph at lines 35--36
 \OT1/cmr/m/n/10 l^^?agre. S^^Walunda skall v^^?arden dricka med v^^?ardinnan. 
  []
 
 
-Overfull \hbox (1.06812pt too wide) in paragraph at lines 39--40
+Overfull \hbox (1.06812pt too wide) in paragraph at lines 37--38
 []\OT1/cmr/m/n/10 Endast v^^?ardfolk har f^^?orslagsr^^?att till kollek-tiv sk^^Wal
  []
 
 File: Media/Artboard 1.png Graphic file (type png)
 <use Media/Artboard 1.png>
-Package pdftex.def Info: Media/Artboard 1.png  used on input line 44.
+Package pdftex.def Info: Media/Artboard 1.png  used on input line 42.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
 [28]
-Overfull \hbox (0.54027pt too wide) in paragraph at lines 45--46
+Overfull \hbox (0.54027pt too wide) in paragraph at lines 43--44
 []\OT1/cmr/m/n/10 Detta med att man tit-tar varan-dra i ^^?ogonen kom-
  []
 
 
-Overfull \hbox (1.65134pt too wide) in paragraph at lines 45--46
+Overfull \hbox (1.65134pt too wide) in paragraph at lines 43--44
 \OT1/cmr/m/n/10 att sl^^?appa sin motst^^Wandare med blicken, d^^Wa risken
  []
 
 
-Overfull \hbox (12.51254pt too wide) in paragraph at lines 52--53
+Overfull \hbox (12.51254pt too wide) in paragraph at lines 50--51
 []\OT1/cmr/m/n/10 De f^^?oljande talen: Sam-mankom-stens ^^?andam^^Wal
  []
 
 File: Media/Artboard 2.png Graphic file (type png)
 <use Media/Artboard 2.png>
-Package pdftex.def Info: Media/Artboard 2.png  used on input line 57.
+Package pdftex.def Info: Media/Artboard 2.png  used on input line 55.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
 [29]
-Overfull \hbox (1.08545pt too wide) in paragraph at lines 63--64
-\OT1/cmr/m/n/10 beleven-het. I den-samma ing^^War alla s^^?allskapslivets
+Overfull \hbox (13.3077pt too wide) in paragraph at lines 61--62
+\OT1/cmr/m/n/10 av beleven-het. I den-samma ing^^War alla s^^?allskapslivets
  []
 
 
-Overfull \hbox (29.70706pt too wide) in paragraph at lines 63--64
+Overfull \hbox (29.70706pt too wide) in paragraph at lines 61--62
 \OT1/cmr/m/n/10 hu-vud-mo-ment s^^Wasom sa-longkon-ver-sa-tion, up-ptr^^?adande,
  []
 
 File: Media/Artboard 1.png Graphic file (type png)
 <use Media/Artboard 1.png>
-Package pdftex.def Info: Media/Artboard 1.png  used on input line 64.
+Package pdftex.def Info: Media/Artboard 1.png  used on input line 62.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
 [30]
-Overfull \hbox (6.55771pt too wide) in paragraph at lines 69--70
-\OT1/cmr/m/n/10 ^^?ar en sam-manst^^?allning av mid-dags typ. I ^^?overblick
- []
-
-
-Overfull \hbox (6.95695pt too wide) in paragraph at lines 69--70
+Overfull \hbox (6.95695pt too wide) in paragraph at lines 67--68
 \OT1/cmr/m/n/10 mer mat, Toast-mas-ters(V^^?ard/v^^?ardinna) och dryck
  []
 
 
-Overfull \hbox (7.36438pt too wide) in paragraph at lines 69--70
+Overfull \hbox (7.36438pt too wide) in paragraph at lines 67--68
 \OT1/cmr/m/n/10 finnas. S^^Wanger och Spex i olika slag ^^?ar att f^^?orv^^?anta. 
+ []
+
+
+Overfull \hbox (8.45694pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/10 brukar Sveriges na-tion-als^^Wang sjun-gas sen in-ledande
+ []
+
+
+Overfull \hbox (7.70688pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/10 tal av Toast-mas-ters d^^?ar sit-tningsre-gler g^^Was igenom. 
  []
 
 File: Media/Artboard 2.png Graphic file (type png)
 <use Media/Artboard 2.png>
-Package pdftex.def Info: Media/Artboard 2.png  used on input line 72.
+Package pdftex.def Info: Media/Artboard 2.png  used on input line 71.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
 [31]
 File: Media/Artboard 1.png Graphic file (type png)
 <use Media/Artboard 1.png>
-Package pdftex.def Info: Media/Artboard 1.png  used on input line 84.
+Package pdftex.def Info: Media/Artboard 1.png  used on input line 85.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
  [32]
-Overfull \hbox (6.17917pt too wide) in paragraph at lines 91--92
+Overfull \hbox (6.17917pt too wide) in paragraph at lines 89--90
 \OT1/cmr/m/n/10 tages sj^^?alv och in-gen st^^?orre ko-or-di-na-tion ^^?an ^^?onskat
  []
 
 File: Media/Artboard 2.png Graphic file (type png)
 <use Media/Artboard 2.png>
-Package pdftex.def Info: Media/Artboard 2.png  used on input line 95.
+Package pdftex.def Info: Media/Artboard 2.png  used on input line 93.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
 [33]) (Kapitel/Patriotiska sånger.tex
 <Media/Artboard 1_flag.png, id=127, 599.1183pt x 846.5226pt>
@@ -3066,13 +3057,18 @@ File: Media/Artboard 1_light.png Graphic file (type png)
 Package pdftex.def Info: Media/Artboard 1_light.png  used on input line 523.
 (pdftex.def)             Requested size: 298.75394pt x 421.89624pt.
  [350]) (Kapitel/Drinktips.tex
+Overfull \hbox (8.72397pt too wide) in paragraph at lines 18--19
+[]\OT1/cmr/m/n/10 Detta ^^?ar egentli-gen inte \OT1/cmr/m/it/10 en \OT1/cmr/m/n/10 drink, utan 180 drinkar! 
+ []
+
+
 Overfull \hbox (9.9755pt too wide) in paragraph at lines 20--21
 \OT1/cmr/m/n/10 besluts^^Wangest, d^^Wa den hj^^?alper till att v^^?alja. Drinken
  []
 
 File: Media/Artboard 2.png Graphic file (type png)
 <use Media/Artboard 2.png>
-Package pdftex.def Info: Media/Artboard 2.png  used on input line 28.
+Package pdftex.def Info: Media/Artboard 2.png  used on input line 29.
 (pdftex.def)             Requested size: 298.75394pt x 422.07477pt.
 [351]
 File: Media/Artboard 1.png Graphic file (type png)
@@ -3285,9 +3281,9 @@ Here is how much of TeX's memory you used:
  37889 multiletter control sequences out of 15000+600000
  563364 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 118i,13n,121p,3996b,911s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 118i,13n,121p,3995b,911s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Nelly\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Nelly/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Nelly/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Nelly/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/Nelly/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Nelly/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Nelly/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Nelly/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Nelly/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Nelly/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Nelly/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (384 pages, 1119598 bytes).
+Output written on main.pdf (384 pages, 1119558 bytes).
 PDF statistics:
  1312 PDF objects out of 1440 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
