@@ -3271,6 +3271,20 @@ Package etoc Warning: Please load `tocloft' before `etoc'!
 (main.aux)
  ***********
 LaTeX2e <2023-11-01>
+<<<<<<< HEAD
+L3 programming layer <2023-11-09>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 15963 strings out of 474586
+ 321877 string characters out of 5762070
+ 1940558 words of memory out of 5000000
+ 37798 multiletter control sequences out of 15000+600000
+ 563364 words of font info for 53 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 118i,13n,121p,4022b,911s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Ashley Björs\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+=======
 L3 programming layer <2023-12-11>
  ***********
  ) 
@@ -3283,7 +3297,12 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  118i,13n,121p,3995b,911s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Nelly\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Nelly/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Nelly/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Nelly/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/Nelly/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Nelly/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Nelly/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Nelly/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Nelly/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Nelly/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Nelly/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+<<<<<<< HEAD
 Output written on main.pdf (384 pages, 1119558 bytes).
+=======
+>>>>>>> f5d70b6258405c7e09427f11ae5f50f966fc458a
+Output written on main.pdf (384 pages, 1119598 bytes).
+>>>>>>> 7d33ad9b2b0c9877bbd41d7054f545c0b18013d1
 PDF statistics:
  1312 PDF objects out of 1440 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
