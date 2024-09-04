@@ -96,6 +96,7 @@
 \usepackage{geometry}
  \geometry{a6paper}
 
+\usepackage{tocloft}
 \usepackage{etoc} % Adds the functionallity to have two ToC
 \setcounter{tocdepth}{3}  
 
@@ -103,10 +104,14 @@
         \@starttoc{lot}%
 }  
 
-\usepackage{tocloft}
+%\usepackage{tocloft} Moved to before etoc
 \setlength{\cftsecindent}{0pt}% Remove indent for \section
 \setlength{\cftsubsecindent}{0pt}% Remove indent for \subsection
 \setlength{\cftsubsubsecindent}{0pt}% Remove indent for \subsubsection
 
+\usepackage{currfile}
+\usepackage{pythontex}
+
+\usepackage{adjustbox}%Used for rotating in Inledning
 
 \endinput
