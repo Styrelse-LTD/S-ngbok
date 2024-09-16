@@ -1,10 +1,5 @@
-.aux
-.log
-.toc
-.gz
-
-main.pdf
-main.log
-main.synctex(busy)
-main.log
-main.synctex.gz
+*.aux
+*.log
+*.toc
+*.gz
+*.synctex*
