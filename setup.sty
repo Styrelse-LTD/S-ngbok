@@ -41,7 +41,7 @@
 \usepackage{setspace}
 \linespread{1,1} % Increases the spacing between lines by 10%
 
-\newcommand{\CustomBackground}[2]{
+\newcommand{\CustomBackground}[1]{
     \backgroundsetup{
         scale=1,
         opacity=1,
@@ -49,7 +49,7 @@
         color=black,
         contents={%
         \ifodd\value{page}
-            \includegraphics[width=\paperwidth]{Media/#2}%%Odd pages
+            \includegraphics[width=\paperwidth, angle=180]{Media/#1}%%Odd pages
         \else
             \includegraphics[width=\paperwidth]{Media/#1}%%Even pages
         \fi
