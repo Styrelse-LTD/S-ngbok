@@ -1,8 +1,6 @@
-.aux
-.log
-.gz
-.toc
-main.aux
-main.log
-main.synctex.gz
-main.toc
+*.aux
+*.log
+*.toc
+*.gz
+*.synctex*
+*.pytxcode

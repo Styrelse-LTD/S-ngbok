@@ -41,7 +41,7 @@
 \usepackage{setspace}
 \linespread{1,1} % Increases the spacing between lines by 10%
 
-\newcommand{\CustomBackground}[2]{
+\newcommand{\CustomBackground}[1]{
     \backgroundsetup{
         scale=1,
         opacity=1,
@@ -49,7 +49,7 @@
         color=black,
         contents={%
         \ifodd\value{page}
-            \includegraphics[width=\paperwidth]{Media/#2}%%Odd pages
+            \includegraphics[width=\paperwidth, angle=180]{Media/#1}%%Odd pages
         \else
             \includegraphics[width=\paperwidth]{Media/#1}%%Even pages
         \fi
@@ -64,14 +64,25 @@
   \par\refstepcounter{section}% Increase section counter
   \sectionmark{#1}% Add section mark (header)
   \addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}% Add section to ToC
+  \setlength{\headheight}{12.96115pt}%Capital Ö is 12.96115pt 
   % Add more content here, if needed.
 }
-
-
-
+% Används där alla sections ska vara osynliga och inte läggas till i toc
 \newcommand{\invisiblesection}[1]{%
   \par\refstepcounter{section}% Increase section counter
   \sectionmark{#1}% Add section mark (header)
+  %\addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}% Add section to ToC
+  % Add more content here, if needed.
+}
+\newcommand{\invisiblesubsection}[1]{%
+  \par\refstepcounter{subsection}% Increase section counter
+  \subsectionmark{#1}% Add section mark (header)
+  %\addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}% Add section to ToC
+  % Add more content here, if needed.
+}
+\newcommand{\invisiblesubsubsection}[1]{%
+  \par\refstepcounter{subsubsection}% Increase section counter
+  \subsectionmark{#1}% Add subsection mark (header)
   %\addcontentsline{toc}{section}{\protect\numberline{\thesection}#1}% Add section to ToC
   % Add more content here, if needed.
 }
@@ -86,13 +97,22 @@
 \usepackage{geometry}
  \geometry{a6paper}
 
+\usepackage{tocloft}
 \usepackage{etoc} % Adds the functionallity to have two ToC
 \setcounter{tocdepth}{3}  
 
+\renewcommand\listoftables{%
+        \@starttoc{lot}%
+}  
 
+%\usepackage{tocloft} Moved to before etoc
+\setlength{\cftsecindent}{0pt}% Remove indent for \section
+\setlength{\cftsubsecindent}{0pt}% Remove indent for \subsection
+\setlength{\cftsubsubsecindent}{0pt}% Remove indent for \subsubsection
 
-  
+\usepackage{currfile}
+\usepackage{pythontex}
 
-
+\usepackage{adjustbox}%Used for rotating in Inledning
 
 \endinput
