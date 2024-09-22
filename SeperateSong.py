@@ -39,7 +39,7 @@ for file in glob.glob("*.tex"):
         if "\end{SongText}" in line:
             insideSong = False
 
-            addedSongCodeLine = "\input{Songs/"+songName+"}\n"
+            addedSongCodeLine = "\input{Songs/"+section + "/" +songName+"}\n"
             code.append(addedSongCodeLine)
 
             if not os.path.exists(songPath):
