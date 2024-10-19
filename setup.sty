@@ -17,7 +17,23 @@
 \\*
 }
 
+\newenvironment{Censor}[1]
+{
+\ifprinting
 
+\else
+#1
+\fi
+}
+
+\newenvironment{PrintingVariant}[2]
+{
+\ifprinting
+#1
+\else
+#2
+\fi
+}
 
 \usepackage{graphicx} % Required for inserting images
 %\usepackage{parskip} % Stops indenet after paragraph change

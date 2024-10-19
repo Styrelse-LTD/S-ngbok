@@ -1,15 +1,23 @@
 \documentclass[twoside]{article}
 
+\newif\ifprinting
+%\printingtrue %Censor some songs and sections
+
 \usepackage{setup}%includes setup.sty
 
 \title{Stora Lila Gamma}
-\subtitle{Bonkboken}
+\ifprinting
+    \subtitle{Bonkboken}
+\else
+    \subtitle{Bonkboken-Online}
+\fi
 \author{LTD}
-\date{2023}
+\date{2024}
 
 \begin{document}
 \setlength{\parskip}{6pt plus 2pt minus 2pt}
 \setlength{\parindent}{0pt}
+
 
 
 \maketitle
