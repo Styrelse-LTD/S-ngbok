@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1729442492.26785 "c:/Users/oscar/Songbook/main.tex" "main.pdf" "main" 1729442498.88221 0
+["pdflatex"] 1729442574.4942 "c:/Users/oscar/Songbook/main.tex" "main.pdf" "main" 1729442581.03282 0
   "C:/Users/oscar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1728246070 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/oscar/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1728246067 11548 cc928fe976bae52c2338d743d3ba5203 ""
   "C:/Users/oscar/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1728245988 24225046 58b15a009242d6fc69683b3b2213b737 ""
@@ -177,7 +177,6 @@
   "Kapitel/Spel & lekar.tex" 1729375882 4439 eeaa14e1a1f62e96b6a8be2bf0966fc7 ""
   "Kapitel/Tungrullare.tex" 1728334334 317 fe7c2cafc7600ee88f48f89fcf67f0fc ""
   "Kapitel/Vinvisor.tex" 1729375882 393 123631f719f721c5bd2c1dbe1544f549 ""
-  "Kapitel/pinaler.tex" 1729121503 4266 e14b620506d64bf08d53403caf3548e1 ""
   "Kapitel/Öhlvisor.tex" 1729375882 953 0 ""
   "Kapitel/Övriga visor.tex" 1729375882 1748 0 ""
   "Media/bg_flag.png" 1728334334 16302 60237abc5595c705d302e1d11bcd6dca ""
@@ -521,10 +520,10 @@
   "Songs/Övriga visor/Varnöjdlivetger.tex" 1728334334 1599 0 ""
   "Songs/Övriga visor/Vemsägernej.tex" 1728334334 1294 0 ""
   "Songs/Övriga visor/Whatshallwedowiththedrunkensailor.tex" 1729375882 1575 0 ""
-  "c:/Users/oscar/Songbook/main.tex" 1729375882 2314 753277d003abda8ac7f00bb873d49385 ""
-  "main.aux" 1729442498 66306 b615e3cbf4caff011149416e78203690 "pdflatex"
-  "main.tex" 1729375882 2314 753277d003abda8ac7f00bb873d49385 ""
-  "main.toc" 1729442498 27371 8f29f8cb69fb63bbd3265367eed8fab1 "pdflatex"
+  "c:/Users/oscar/Songbook/main.tex" 1729442567 2249 6baa7ffd4bbfa4fc984a95c24088980b ""
+  "main.aux" 1729442580 66077 e6255dc211c90d93208da0f9f3c299c4 "pdflatex"
+  "main.tex" 1729442567 2249 6baa7ffd4bbfa4fc984a95c24088980b ""
+  "main.toc" 1729442580 27367 133b630446af6f7583960d50e031c0d7 "pdflatex"
   "pythontex-files-main/main.pytxmcr" 0 -1 0 ""
   "setup.sty" 1729375882 3782 6ad1456ac300b2728eaba11416e82cbe ""
   (generated)
