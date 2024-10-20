@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1729385401.10587 "c:/Users/oscar/Songbook/main.tex" "main.pdf" "main" 1729385407.8752 0
+["pdflatex"] 1729442398.41201 "c:/Users/oscar/Songbook/main.tex" "main.pdf" "main" 1729442406.70185 0
   "C:/Users/oscar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1728246070 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/oscar/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1728246067 11548 cc928fe976bae52c2338d743d3ba5203 ""
   "C:/Users/oscar/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1728245988 24225046 58b15a009242d6fc69683b3b2213b737 ""
@@ -441,7 +441,7 @@
   "Songs/Snapsvisor/Jagtrorjagtror.tex" 1728334334 542 a1aee4ba003b8e9843b168e775b3a102 ""
   "Songs/Snapsvisor/Jagvartallengång.tex" 1728334334 576 0 ""
   "Songs/Snapsvisor/Låttersengå.tex" 1728334334 722 0 ""
-  "Songs/Snapsvisor/Merabrännvin.tex" 1728849022 912 0 ""
+  "Songs/Snapsvisor/Merabrännvin.tex" 1729442397 913 0 ""
   "Songs/Snapsvisor/MotsatsentillAI.tex" 1728334334 554 323bb13cfbea3e8cd7db8c5e562c1b6b ""
   "Songs/Snapsvisor/Måsen.tex" 1728334334 501 0 ""
   "Songs/Snapsvisor/Nubbengoa.tex" 1728334334 1484 5ad5eb582a0e9c6835e3b9b10c64788c ""
@@ -522,9 +522,9 @@
   "Songs/Övriga visor/Vemsägernej.tex" 1728334334 1294 0 ""
   "Songs/Övriga visor/Whatshallwedowiththedrunkensailor.tex" 1729375882 1575 0 ""
   "c:/Users/oscar/Songbook/main.tex" 1729375882 2314 753277d003abda8ac7f00bb873d49385 ""
-  "main.aux" 1729385407 66306 b615e3cbf4caff011149416e78203690 "pdflatex"
+  "main.aux" 1729442406 66306 b615e3cbf4caff011149416e78203690 "pdflatex"
   "main.tex" 1729375882 2314 753277d003abda8ac7f00bb873d49385 ""
-  "main.toc" 1729385407 27371 8f29f8cb69fb63bbd3265367eed8fab1 "pdflatex"
+  "main.toc" 1729442406 27371 8f29f8cb69fb63bbd3265367eed8fab1 "pdflatex"
   "pythontex-files-main/main.pytxmcr" 0 -1 0 ""
   "setup.sty" 1729375882 3782 6ad1456ac300b2728eaba11416e82cbe ""
   (generated)
