@@ -18,23 +18,30 @@
 \setlength{\parskip}{6pt plus 2pt minus 2pt}
 \setlength{\parindent}{0pt}
 
+
 \backgroundsetup{contents={}}
 \thispagestyle{empty}
 
+
+\CustomBackground{PurpleGeltex.jpg}
 
 \vbox{
     
     \centering
     \includegraphics[width = \textwidth]{Media/TEMPFrontCover.png}
-
     \Huge
+    \color{white}
     STORA LILA
-    \newpage
-    \normalsize
     
 }
-\maketitle
+\color{black}
+\normalsize
+\newpage
+\CustomBackground{EmptyBackground.png}
     
+
+\maketitle
+
 \newpage
 
 
@@ -144,6 +151,19 @@
 \CustomBackground{bg_purple.png}
 \includepdf[pages=1]{Media/TitlePage_PatriotiskaSketch.png}
 \input{Kapitel/Index}
+
+\fancypagestyle{Cover}{
+    \fancyhead{} % clear all header fields
+    \fancyhead[LE,RO]{\textbf{ }}
+}
+\pagestyle{Cover}
+
+\newpage
+
+\CustomBackground{PurpleGeltex.jpg}
+
+\hspace{1cm}
+
 
 
 \end{document}
