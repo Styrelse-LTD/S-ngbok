@@ -22,23 +22,24 @@
 \backgroundsetup{contents={}}
 \thispagestyle{empty}
 
+\ifprinting
+\else
+    \CustomBackground{PurpleGeltex.jpg}
 
-\CustomBackground{PurpleGeltex.jpg}
-
-\vbox{
-    
-    \centering
-    \includegraphics[width = \textwidth]{Media/TEMPFrontCover.png}
-    \Huge
-    \color{white}
-    STORA LILA
-    
-}
-\color{black}
-\normalsize
-\newpage
-\CustomBackground{EmptyBackground.png}
-    
+    \vbox{
+        
+        \centering
+        \includegraphics[width = \textwidth]{Media/TEMPFrontCover.png}
+        \Huge
+        \color{white}
+        STORA LILA
+        
+    }
+    \color{black}
+    \normalsize
+    \newpage
+    \CustomBackground{EmptyBackground.png}
+\fi   
 
 \maketitle
 
@@ -158,12 +159,15 @@
 }
 \pagestyle{Cover}
 
-\newpage
 
-\CustomBackground{PurpleGeltex.jpg}
+\ifprinting
+\else
+    \newpage
 
-\hspace{1cm}
+    \CustomBackground{PurpleGeltex.jpg}
 
+    \hspace{1cm}
+\fi
 
 
 \end{document}
