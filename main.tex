@@ -1,7 +1,7 @@
 \documentclass[twoside]{article}
 
 \newif\ifprinting
-\printingtrue %Censor some songs and sections
+%\printingtrue %Censor some songs and sections
 
 \usepackage{setup}%includes setup.sty
 
@@ -26,17 +26,22 @@
 \else
     \CustomBackground{PurpleGeltex.jpg}
 
-    \vbox{
+    \newgeometry{left=1.5cm,right=1.5cm}
+
+    \begin{figure}[!h]
         
         \centering
-        \includegraphics[width = \textwidth]{Media/TEMPFrontCover.png}
+        
+        \centerline{\includegraphics[width = \textwidth]{Media/TEMPFrontCover.png}}
+
         \Huge
         \color{white}
-        STORA LILA
+        \bf{STORA LILA}
         
-    }
+    \end{figure}
     \color{black}
     \normalsize
+    \restoregeometry
     \newpage
     \CustomBackground{EmptyBackground.png}
 \fi   
