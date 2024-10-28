@@ -109,9 +109,20 @@
 
 \renewcommand{\thesubsubsection}{} % Removes the numbering from the left side of subsections in the ToC
 
-
-\usepackage{geometry}
+%\usepackage{geometry}
+\usepackage[showframe]{geometry}
  \geometry{a6paper}
+
+ \usepackage{lmodern}
+ \usepackage{layouts} % Used for debuging the goemetry sizes
+
+ % New Margins and shit (EXPERIMENTAL AS OF 2024-10-28)
+ 
+ \setlength{\textheight}{125mm}
+ \setlength{\headsep}{5mm}
+ \setlength{\footskip}{5mm}
+ 
+
 
 \usepackage{tocloft}
 \usepackage{etoc} % Adds the functionallity to have two ToC
