@@ -2,17 +2,19 @@
 
 \newif\ifprinting
 \printingtrue %Censor some songs and sections
+\newif\ifcover
+
 
 \usepackage{setup}%includes setup.sty
 
-\title{Stora Lila Gamma}
+\title{Stora Lila}
 \ifprinting
-    \subtitle{Bonkboken}
+    \subtitle{Första Upplagan}
 \else
-    \subtitle{Bonkboken-Online}
+    \subtitle{Online Upplagan}
 \fi
 \author{LTD}
-\date{2024}
+\date{2025}
 
 \begin{document}
 \setlength{\parskip}{6pt plus 2pt minus 2pt}
@@ -22,8 +24,9 @@
 \backgroundsetup{contents={}}
 \thispagestyle{empty}
 
-\ifprinting
-\else
+
+
+\ifcover
     \CustomBackground{PurpleGeltex.jpg}
 
     \newgeometry{left=1.5cm,right=1.5cm}
@@ -34,9 +37,16 @@
         
         \centerline{\includegraphics[width = \textwidth]{Media/TEMPFrontCover.png}}
 
+        
+
         \Huge
+
+        \phantom{text}
+
         \color{white}
         \bf{STORA LILA}
+        \large
+        \bf{Bonkboken}
         
     \end{figure}
     \color{black}
@@ -44,6 +54,8 @@
     \restoregeometry
     \newpage
     \CustomBackground{EmptyBackground.png}
+    \phantom{text}
+    \newpage
 \fi   
 
 \maketitle
@@ -165,8 +177,7 @@
 \pagestyle{Cover}
 
 
-\ifprinting
-\else
+\ifcover
     \newpage
 
     \CustomBackground{PurpleGeltex.jpg}
