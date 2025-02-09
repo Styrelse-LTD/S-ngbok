@@ -1,11 +1,17 @@
 \documentclass[twoside]{article}
 
 \newif\ifprinting
-\printingtrue %Censor some songs and sections
+%\printingtrue %Censor some songs and sections
 \newif\ifcover
-
+\covertrue %Adds a coloured front page to look like the cover : )
 
 \usepackage{setup}%includes setup.sty
+
+\ifprinting
+    \setlength{\paperwidth}{\paperwidth+3mm}
+    \setlength{\paperheight}{\paperheight+6mm}
+    \setlength{\voffset}{\voffset+3mm}
+\fi
 
 \title{Stora Lila}
 \ifprinting
@@ -16,9 +22,22 @@
 \author{LTD}
 \date{2025}
 
+
 \begin{document}
 \setlength{\parskip}{6pt plus 2pt minus 2pt}
 \setlength{\parindent}{0pt}
+
+
+
+%DEBUG: hoffset: \the\hoffset\\
+%DEBUG: voffset: \the\voffset\\
+%DEBUG: paperwidth: \the\paperwidth\\
+%DEBUG: paperheight: \the\paperheight\\
+%DEBUG: textwidth: \the\textwidth\\
+%DEBUG: textheight: \the\textheight\\
+
+
+
 
 
 \backgroundsetup{contents={}}
@@ -68,105 +87,205 @@
 \input{Kapitel/Inledning}
 \input{Kapitel/Innehåll}
 
-\CustomBackground{bg_l_purple.png}
+\ifprinting
+    \CustomPrintingBackground{bg_l_purple_+3mm.png}
+\else
+    \CustomBackground{bg_l_purple.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_PatriotiskaSketch.png}
 \input{Kapitel/Att Bonka med Shtil}
 
-\CustomBackground{bg_purple.png}
+\ifprinting
+    \CustomPrintingBackground{bg_purple_+3mm.png}
+\else
+    \CustomBackground{bg_purple.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_PatriotiskaSketch.png}
 \input{Kapitel/Hyfs och Etikett}
 
-\CustomBackground{bg_flag.png}
+\ifprinting
+    \CustomPrintingBackground{bg_flag_+3mm.png}
+\else
+    \CustomBackground{bg_flag.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_PatriotiskaSketch.png}
 \input{Kapitel/Patriotiska sånger}
 
-\CustomBackground{bg_purple.png}
+\ifprinting
+    \CustomPrintingBackground{bg_purple_+3mm.png}
+\else
+    \CustomBackground{bg_purple.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_PatriotiskaSketch.png}
 \input{Kapitel/Föreningssånger}
 
-\CustomBackground{bg_l_purple.png}
+\ifprinting
+    \CustomPrintingBackground{bg_l_purple_+3mm.png}
+\else
+    \CustomBackground{bg_l_purple.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_Datasonger.png}
 \input{Kapitel/Datasånger}
 
-\CustomBackground{bg_grey.png}
+\ifprinting
+    \CustomPrintingBackground{bg_grey_+3mm.png}
+\else
+    \CustomBackground{bg_grey.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_Flygarsånger.png}
 \input{Kapitel/Flygarsånger}
 
-\CustomBackground{bg_purple.png}
+\ifprinting
+    \CustomPrintingBackground{bg_purple_+3mm.png}
+\else
+    \CustomBackground{bg_purple.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_PatriotiskaSketch.png}
 \input{Kapitel/Phörphesten}
 
-\CustomBackground{bg_l_purple.png}
+\ifprinting
+    \CustomPrintingBackground{bg_l_purple_+3mm.png}
+\else
+    \CustomBackground{bg_l_purple.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_PatriotiskaSketch.png}
 \input{Kapitel/Phestvisor}
 
-\CustomBackground{bg_purple.png}
+\ifprinting
+    \CustomPrintingBackground{bg_purple_+3mm.png}
+\else
+    \CustomBackground{bg_purple.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_Bordsvisor.png}
 \input{Kapitel/Bordsvisor}
 
-\CustomBackground{bg_l_purple.png}
+\ifprinting
+    \CustomPrintingBackground{bg_l_purple_+3mm.png}
+\else
+    \CustomBackground{bg_l_purple.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_PatriotiskaSketch.png}
 \input{Kapitel/Öhlvisor}
 
-\CustomBackground{bg_purple.png}
+\ifprinting
+    \CustomPrintingBackground{bg_purple_+3mm.png}
+\else
+    \CustomBackground{bg_purple.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_PatriotiskaSketch.png}
 \input{Kapitel/Snapsvisor}
 
-\CustomBackground{bg_yellow.png}
+\ifprinting
+    \CustomPrintingBackground{bg_yellow_+3mm.png}
+\else
+    \CustomBackground{bg_yellow.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_PatriotiskaSketch.png}
 \input{Kapitel/Punschvisor}
 
-\CustomBackground{bg_purple.png}
+\ifprinting
+    \CustomPrintingBackground{bg_purple_+3mm.png}
+\else
+    \CustomBackground{bg_purple.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_PatriotiskaSketch.png}
 \input{Kapitel/Vinvisor}
 
-\CustomBackground{bg_l_purple.png}
+\ifprinting
+    \CustomPrintingBackground{bg_l_purple_+3mm.png}
+\else
+    \CustomBackground{bg_l_purple.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_PatriotiskaSketch.png}
 \input{Kapitel/Tungrullare}
 
-\CustomBackground{bg_purple.png}
+\ifprinting
+    \CustomPrintingBackground{bg_purple_+3mm.png}
+\else
+    \CustomBackground{bg_purple.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_PatriotiskaSketch.png}
 \input{Kapitel/Längre sånger}
 
-\CustomBackground{bg_l_purple.png}
+\ifprinting
+    \CustomPrintingBackground{bg_l_purple_+3mm.png}
+\else
+    \CustomBackground{bg_l_purple.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_PatriotiskaSketch.png}
 \input{Kapitel/Övriga visor}
 
-\CustomBackground{bg_purple_censur.png}
+\ifprinting
+    \CustomPrintingBackground{bg_purple_censur_+3mm.png}
+\else
+    \CustomBackground{bg_purple_censur.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_PatriotiskaSketch.png}
 \input{Kapitel/Barnförbjudet}
 
-\CustomBackground{bg_l_purple.png}
+\ifprinting
+    \CustomPrintingBackground{bg_l_purple_+3mm.png}
+\else
+    \CustomBackground{bg_l_purple.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_PatriotiskaSketch.png}
 \input{Kapitel/Dagen efter}
 
 %\input{Kapitel/Barntillåtet}
 
-\CustomBackground{bg_purple.png}
+\ifprinting
+    \CustomPrintingBackground{bg_purple_+3mm.png}
+\else
+    \CustomBackground{bg_purple.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_PatriotiskaSketch.png}
 \input{Kapitel/Sommarvisor}
 
-\CustomBackground{bg_l_purple.png}
+\ifprinting
+    \CustomPrintingBackground{bg_l_purple_+3mm.png}
+\else
+    \CustomBackground{bg_l_purple.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_PatriotiskaSketch.png}
 \input{Kapitel/Kräftskivan}
 
-\CustomBackground{bg_purple.png}
+\ifprinting
+    \CustomPrintingBackground{bg_purple_+3mm.png}
+\else
+    \CustomBackground{bg_purple.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_PatriotiskaSketch.png}
 \input{Kapitel/Julvisor}
 
-\CustomBackground{bg_l_purple.png}
+\ifprinting
+    \CustomPrintingBackground{bg_l_purple_+3mm.png}
+\else
+    \CustomBackground{bg_l_purple.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_PatriotiskaSketch.png}
 \input{Kapitel/Drinktips}
 
-\CustomBackground{bg_purple.png}
+\ifprinting
+    \CustomPrintingBackground{bg_purple_+3mm.png}
+\else
+    \CustomBackground{bg_purple.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_PatriotiskaSketch.png}
 \input{Kapitel/Spel & lekar}
 
-\CustomBackground{bg_l_purple.png}
+\ifprinting
+    \CustomPrintingBackground{bg_l_purple_+3mm.png}
+\else
+    \CustomBackground{bg_l_purple.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_Egnapåhitt.png}
 \input{Kapitel/Egna påhitt}
 
-\CustomBackground{bg_purple.png}
+\ifprinting
+    \CustomPrintingBackground{bg_purple_+3mm.png}
+\else
+    \CustomBackground{bg_purple.png}
+\fi
 %\includepdf[pages=1]{Media/TitlePage_PatriotiskaSketch.png}
 \input{Kapitel/Index}
 

@@ -65,9 +65,26 @@
         color=black,
         contents={%
         \ifodd\value{page}
-            \includegraphics[width=\paperwidth, angle=180]{Media/#1}%%Odd pages
+            \includegraphics[width=\paperwidth,height=\paperheight]{Media/#1}%%Odd pages
         \else
-            \includegraphics[width=\paperwidth]{Media/#1}%%Even pages
+            \includegraphics[width=\paperwidth,height=\paperheight, angle=180]{Media/#1}%%Even pages
+        \fi
+        }
+    }
+}
+
+\newcommand{\CustomPrintingBackground}[1]{%Used to add the 3mm shift at the bottom of the background when using the printing version 
+    \backgroundsetup{
+        scale=1,
+        opacity=1,
+        angle=0,
+        color=black,
+        vshift=-3mm, %This one is the fix
+        contents={
+        \ifodd\value{page}
+          \includegraphics[width=\paperwidth,height=\paperheight,angle=180]{Media/#1}%%Odd pages
+        \else
+          \includegraphics[width=\paperwidth,height=\paperheight]{Media/#1}%%Even pages
         \fi
         }
     }
@@ -109,8 +126,8 @@
 
 \renewcommand{\thesubsubsection}{} % Removes the numbering from the left side of subsections in the ToC
 
-\usepackage{geometry}
-%\usepackage[showframe]{geometry}
+\usepackage{geometry} % Switch on for non frame view
+%\usepackage[showframe]{geometry} % Switch on for frame view
  \geometry{a6paper}
 
  \usepackage{lmodern}
